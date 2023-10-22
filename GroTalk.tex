@@ -1,0 +1,189 @@
+% !TEX root = GroTalk.ho.tex
+\mode<presentation>
+{
+  \usetheme{Goettingen}
+
+  \setbeamercovered{transparent}% - Use the \inst command only if there are several affiliations.
+% - Keep it simple, no one is interested in your street address.
+  % or whatever (possibly just delete it)
+  \setbeamerfont{frametitle}{parent=structure,size=\normalsize}
+  \setbeamerfont{title}{size=\normalsize,parent=structure}
+  \setbeamerfont{author}{size=\small,parent=structure}
+  \setbeamercolor{postit}{fg=black,bg=yellow}
+  \setbeamertemplate{navigation symbols}{}%remove navigation symbols
+}
+
+
+\usepackage[english]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+%%\usepackage{background}
+\usepackage{amsbsy}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{rotating}
+\usepackage{graphicx}
+%%\usepackage[pdftex]{graphicx}
+\usepackage{xmpmulti}
+\usepackage{animate}
+\usepackage{siunitx}
+\usepackage{pgfpages}
+\mode<handout>{%
+  %%\pgfpagesuselayout{2 on 1}[a4paper,border shrink=5mm]
+  \pgfpagesuselayout{4 on 1}[a4paper,landscape,border shrink=5mm]
+}
+%% \usepackage[dvips]{color}
+\usepackage{natbib}
+\usepackage[overlay]{textpos}
+\usepackage{tikz}
+
+%% \usepackage{german}
+%\usepackage[dvipsnames]{xcolor}
+%%\usepackage[display]{texpower}
+%%\usepackage[pdftex]{geometry}
+%%\geometry{headsep=3ex,hscale=0.9,includeheadfoot,nofoot,vscale=0.9}
+%\geometry{headsep=2.0em,hscale=1}
+\hypersetup{pdftitle={ElastQ 2023 by F. Malte Grosche},
+  pdfsubject={MPI-PKS 08/23},
+  pdfauthor={F. Malte Grosche, Cambridge, fmg12@cam.ac.uk},
+  pdfkeywords={CeSb2},
+  pdfpagemode={FullScreen}
+  }
+
+\newcommand{\data}{/Users/fmg12/Documents/data}
+\newcommand{\Figures}{\data/Figures}
+%\newcommand{\Figures}{/Users/grosche/Documents/data/Figures}
+%\newcommand{\Figures}{/home/grosche/data/Figures}
+
+\include{definitions.tex}
+
+\title % (optional, use only with long paper titles)
+{CeSb$_2$} \vspace{-2ex}
+
+%% \subtitle
+%% {Presentation Subtitle} % (optional)
+
+\author[ElastQ23 8/2023]{F. M. Grosche} % (optional, use only with lots of authors)
+%%{F.~Author\inst{1} \and S.~Another\inst{2}}
+% - Use the \inst{?} command only if the authors have different
+%   affiliation.
+
+\institute{\em QM Group, Cavendish Laboratory, Cambridge} % (optional, but mostly needed)
+{
+%%   \inst{1}%
+%%   Department of Computer Science\\
+%%   University of Somewhere
+%%   \and
+%%   \inst{2}%
+%%   Department of Theoretical Philosophy\\
+%%   University of Elsewhere
+}
+
+%%\date[Cambridge0706]{Cambridge, 4/7/2006}
+\date{}
+
+\subject{High pressure techniques, Low temperature experiments, Experimental methods, Quantum Matter}
+
+\titlegraphic{%
+%   \vspace{-4ex}
+%     \includegraphics[width=0.75\columnwidth,clip=on]{Figures/CritResist/CritResistHeatCap
+%    }
+}
+
+\begin{document}
+%\section{Introduction}
+% \input{ResearchHighlights}      
+
+
+%\input{GroupList}
+
+
+%\input{QMDescription}
+
+%\input{TheoryTalk}
+%\input{GeneralTopics}
+%\subsection{QM Research Highlights}
+
+
+%\section{Phase separation}
+%\input{CeSb2Talk}
+%\section{Quantum Functional Materials}
+%\section{High-$p$ Fermi surface studies}
+%\section{Mott localisation}
+%\input{NiS2Talk}
+
+
+\input{IntroTalk.tex}
+% \section{YFe$_2$Ge$_2$}
+% \input{YFGMiniTalk.tex}
+
+% \section{LuFe$_2$Ge$_2$}
+% %\input{CISTalk}
+% \input{LFGTalk.tex}
+
+
+%\section{Structural quantum critical point}
+%\input{CISTalk}
+\section{Kondo lattice}
+\input{CeSb2StructTalk.tex}
+
+%\input{IntroTalkSupercon}
+\input{CeSb2SuperconTalk.tex}
+
+% \section{Materials discovery}
+% \input{SuperconResurgent.tex}
+
+
+\section{Structural quantum critical point}
+\input{CISTalk.tex}
+
+\section{Host-guest structures}
+\input{BiTalk.tex}
+\input{QuasiGeneralTalk.tex}
+
+\section{Summary}
+%\input{Ending}
+\input{Ending2.tex}
+
+
+\appendix
+
+%\input{NiS2Appendix}
+%
+%
+%\section{Hund's metal}
+%
+
+
+% \input{YFGAppendix.tex}
+
+% \input{LFGAppendix.tex}
+
+\input{CeSb2Appendix.tex}
+
+\input{CISAppendix}
+
+\input{BiAppendix}
+
+%\section{ADR}
+\input{ADRTalk.tex}
+
+%\input{QFMAppendix}
+%\input{NbFe2Talk}
+
+% \input{HighPressure}
+
+
+%% \input{GeneralAppendix}
+
+
+% % \input{PressureIntro}
+
+
+\end{document}
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 

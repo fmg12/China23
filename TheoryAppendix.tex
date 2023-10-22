@@ -1,0 +1,379 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=Fermiliq2]
+  \frametitle{Collective excitations in interacting systems}
+
+\centerline{\includegraphics[width=0.8\textwidth]{\Figures/Lectures/FermiLiquid/BoseGas}}
+
+% \begin{itemize}
+% \item \hl{Vibrations of a harmonic lattice} = quantum
+%   harmonic oscillator. Creation and annihilation operators
+%   $\rightarrow$ exciting the lattice is
+%   thought of as 'creating a phonon'.
+
+% \item 
+% Because of how the creation and annihilation operators commute, (which allows multiple excitation of the same $k-$state), the phonons follow Bose statistics.
+
+% \item
+% So, a collection of atoms (which themselves may be Fermions \hl{or} Bosons!) can form a lattice, and the \hl{low energy excitations of the lattice can behave like a Bose gas.}
+
+% \end{itemize}
+
+% \end{frame}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \begin{frame}[label=Fermiliq2]
+%   \frametitle{Collective excitations in a Fermi liquid}
+
+\centerline{\includegraphics[width=0.8\textwidth]{\Figures/Lectures/FermiLiquid/FermiGas}}
+% \begin{itemize}
+
+% \item
+% Maybe something analogous happens, when a collection of Fermions forms a liquid: could \hl{the low energy excitations} of a 'liquid' formed from strongly interacting Fermions (e.g. electrons) \hl{behave} like a gas of weakly interacting Fermions?
+
+% \item
+% This would explain why a single-particle description works so well in many materials. In many cases, the properties of the electrons making up the Fermi liquid carry over with only slight modification to the properties of the fermionic excitations of the Fermi liquid.
+% \end{itemize}
+
+\end{frame}
+
+
+\subsection{Quantum phase transitions}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=QuanPhase]
+\frametitle{Quantum phase transitions}
+\begin{columns}[t]
+\column{0.5\textwidth}
+
+\hl{Phase diagram}
+\centerline{\multiinclude[<visible@+-| +->][graphics={width=0.9\columnwidth},format=pdf]{\Figures/QuanPhase/QuanPhase}}
+
+\column{0.5\textwidth}
+\begin{itemize}
+\item<1->
+Low temperature state (blue), e.g. \hl{magnetism.} 
+\item<1->
+\hl{Ordered state melts} with increasing temperature (thermal fluct.).
+\item<1->
+Quantum control parameter $x_1$, $x_2$
+(e.g. \hl{pressure}, magnetic field, composition).
+\item<1->
+Ordered state melts \hl{at $T=0$,} as function of $x_1$, $x_2$ (quantum fluctuations).
+
+\item<2->
+New order (red), e.g. \hl{superconductivity.}
+\item<2->
+Recipe for discoveries?!
+
+\end{itemize}
+\end{columns}
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=ThreshMagn]
+\frametitle{Superconductivity wide-spread on the threshold of magnetism}
+\begin{columns}[t]
+\vspace{-4ex}
+\column{0.5\textwidth}
+\centerline{~}
+\visible<+->{\includegraphics[width=0.9\columnwidth]{\Figures/cps/cpssuper}}
+
+\visible<+->{\includegraphics[width=0.9\columnwidth]{\Figures/cein3/cein3super}\\
+\centerline{\scriptsize{[N. D. Mathur, Nature {\bf 394}, 39 (1998)]}}}
+
+\column{0.5\textwidth}
+\centerline{~}
+\visible<+->{\includegraphics[width=0.9\columnwidth]{\Figures/uge2/uge2super.jpg}\\
+\centerline{\scriptsize{[S. S. Saxena, Nature {\bf 406} 587 (2000)]}}}
+
+\vspace{2ex}
+
+% \visible<4->{
+% \centerline{\includegraphics[width=0.85\columnwidth]{\Figures/Lectures/PistonCylinderCell/FThroughPhoto}}}
+
+\visible<4->{
+Further examples:
+
+\hl{CeCu$_2$Si$_2$}, CeNi$_2$Ge$_2$, CeRh$_2$Si$_2$, CeCu$_2$,
+CeCu$_5$Au, CeIrIn$_5$, URhGe, ...
+
+}
+\end{columns}
+\end{frame}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Magnetic Interaction}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=MagnInter]
+\frametitle{Magnetic interaction}
+
+\begin{columns}[t]
+\column{0.5\textwidth}
+\centerline{~}
+\centerline{\includegraphics[width=0.8\columnwidth]{\Figures/CritConcepts/MagnInter1}}
+\onslide<2->
+\begin{itemize}
+\item<2->
+\hl{Magnetic moment} of quasiparticle 1 creates \hl{exchange field $h_1$}.
+
+\item<3->
+Exchange field $h_1$ leads to \hl{magnetisation} $m \propto \chi$. 
+
+\item<4->
+\hl{Quasiparticle 2} is affected by resulting exchange interaction.
+\end{itemize}
+
+\column{0.5\textwidth}
+\centerline{}
+\onslide<5->
+%% \begin{tabular}[t]{ll}
+%% Effect. inter$^n$ & $V(\mu_1, \mu_2) = -\lambda^2 \chi_{q\omega} \vec\mu_1 \cdot \vec\mu_2$ \tabularnewline
+%%  & \tabularnewline
+%% Susceptibility & $\chi_{\vec q \omega}^{-1} = \chi_\vec q^{-1} \left(1-i\omega/\Gamma_\vec q\right) $ \tabularnewline
+%% \end{tabular}
+\[V(\mu_1, \mu_2) = -\lambda^2 \chi_{q\omega} \vec\mu_1 \cdot \vec\mu_2\]
+\[\chi_{\vec q \omega}^{-1} = \chi_\vec q^{-1} \left(1-i\omega/\Gamma_\vec q\right) \]
+
+\visible<6->{\includegraphics[width=\columnwidth]{\Figures/CritConcepts/FMwave} }
+\end{columns}
+
+\vspace{0.5cm}
+\onslide<6->{%
+\centerline{\parbox{8cm}{\small [Interaction potential due to \\ moving quasiparticle in an incipient ferromagnet]}}}
+\end{frame}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Electronic self-organisation}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=ElecStates]
+\frametitle{Electronic self-organisation}
+
+\centerline{\multiinclude[<visible@+-| +->][format=pdf,graphics={width=0.8\columnwidth}]{\Figures/FreeElec/FreeElecLayers}}
+\vspace{2ex}
+
+\begin{itemize}
+\item<visible@5-> Diversity of condensates\\ {\small (e.g. spin/charge
+density wave, (spin-) Peierls, structural,
+Pomeranchuk, metamagnetic, nematic, multipolar 
+hidden order)}
+
+%%\item<visible@6-> Interacting-electron chemistry.
+
+\item<visible@6-> Purity needed to allow complex order.
+\end{itemize}
+
+\end{frame}
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Magnetism and Superconductivity}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection{The Opportunity}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=Opportunity]
+\frametitle{The Opportunity}
+
+\only<1>{%
+
+\begin{beamercolorbox}{postit}
+\begin{center}
+Development programme pushed by fundamental research.\\
+\vspace{1ex}
+
+Microlithographic production of designer-anvils.\\
+\vspace{1ex}
+
+Nanofabrication techniques.\\
+\vspace{1ex}
+
+Prospecting for novel forms of electronic self-organisation.
+\end{center}
+\end{beamercolorbox}}
+
+\only<2>{%
+\begin{center}
+\Huge \hl{Be the first \\ with the most}
+\end{center}}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{The Opportunity -- 2}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=Opportunity]
+\frametitle{The Opportunity}
+
+\only<1->{%
+\begin{beamercolorbox}{postit}
+\begin{center}
+Development programme pushed by fundamental research.\\
+\vspace{1ex}
+
+Microlithographic production of superanvils.\\
+\vspace{1ex}
+
+Nanofabrication techniques.\\
+\vspace{1ex}
+
+Prospecting for novel forms of electronic self-organisation.
+\end{center}
+\end{beamercolorbox}}
+
+\only<2->{%
+\vspace{3em}
+\begin{beamercolorbox}{postit}
+\begin{center}
+
+Any new discovery contains the germ of a new industry.\\
+\vspace{1ex}
+
+Interacting-electron chemistry. \\
+\vspace{1ex}
+
+New, energy-efficient devices, processes and activities.
+\end{center}
+\end{beamercolorbox}}
+
+%% \only<2>{%
+%% \begin{center}
+%% \Huge \hl{Be the first \\ with the most}
+%% \end{center}}
+
+\end{frame}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Quantum criticality -- more info}
+\subsection{Relaxation rates}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=quancrit1]
+\frametitle{Quantum criticality-1}
+
+\begin{columns}[t]
+\column{0.6\textwidth}
+\centerline{~}
+
+Fluctuating \hl{local order parameter} $m(\vec r, \vec t)$, response
+function (susceptibility)
+\[ \chi_{\vec q \omega} = \chi_{\vec q} \frac{1}{1-i\omega/\Gamma_\vec q} \]
+
+\begin{itemize}
+\item Relaxation rate $\Gamma_\vec q \sim {\chi_\vec q}^{-1}$
+\item $\Gamma_\vec q \rightarrow 0$ at $T_N$, $\bf q=\vec Q$
+\end{itemize}
+
+\column{0.4\textwidth}
+\centerline{~}
+\includegraphics[width=\columnwidth,clip=on]{\Figures/QuanCrit/GammaQ-0}
+\end{columns}
+
+\vspace{4ex}
+\centerline{\hl{Power spectrum} of $m$:
+$\langle |m_{\vec q\omega}|^2 \rangle = \left(n_\omega + \frac{1}{2}\right) Im(\chi_{\vec q \omega})$}
+
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Thermal excitation}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=quancrit2]{Quantum criticality-2}
+
+\begin{columns}[t]
+  \column{0.6\textwidth}
+  \centerline{~}
+  \[ \chi_{\vec q \omega} = \chi_{\vec q} \frac{1}{1-i\omega/\Gamma_\vec q} \]
+
+  \[ \langle |m_{\vec q\omega}|^2 \rangle = \left(n_\omega + \frac{1}{2}\right) \Im(\chi_{\vec q \omega}) \]
+
+\begin{itemize}
+\item<2->
+  Integrals over $\vec q$ and $\omega$, e.g.
+\end{itemize}
+
+  \column{0.4\textwidth}
+  \centerline{~}
+  \multiinclude[<visible@+- | +->][graphics={width=\columnwidth,clip=on},format=pdf]{\Figures/QuanCrit/GammaQ}
+
+\end{columns}
+\visible<2->{\[ \langle m(\vec r) m(0) \rangle \propto \int{d^3 \vec q \chi_\vec q e^{-i \vec q \vec r}} \int {d\omega \left(n_\omega + \frac {1}{2}\right) \frac{\omega/\Gamma_\vec q}{1+\omega^2/\Gamma_\vec q^2}} \]
+
+\raggedleft{(Bose-factor $n_\omega \rightarrow \frac{k_B T}{\hbar\omega}$ if $k_B
+T >> \hbar \omega$)}}
+
+\begin{itemize}
+\item<3->
+  \hl{Classical} critical behaviour: $k_B T >> \hbar \Gamma_\vec q$ for
+  critical modes $\vec q$.  Integrals separable, frequency integral
+  gives $k_B T$ (\hl{equipartition}). Only static susc.  $\chi_\vec q$
+  survives.  
+
+\item<4->
+  \hl{Quantum critical} behaviour: $k_B T$ falls inside dispersion
+  $\Gamma_\vec q$.  Dynamics (via $\Gamma_\vec q$) influence result.
+\end{itemize}
+
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Phase diagram}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=quancrit3]
+\frametitle{Quantum criticality-3}
+\begin{columns}[t]
+\column{0.68\textwidth}
+\centerline{~}
+\includegraphics[width=\columnwidth]{\Figures/QuanCrit/QuanPhaseDiaEn}
+
+\column{0.32\textwidth}
+\centerline{~}
+%%\pause
+\centerline{\includegraphics[width=\columnwidth]{\Figures/QuanCrit/QuanCritCone1}}
+
+%%\pause
+\centerline{\includegraphics[width=\columnwidth]{\Figures/QuanCrit/QuanCritCone2}}
+
+\end{columns}
+
+\end{frame}
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{DMFT calculation}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=DMFT]
+\frametitle{Antiferromagnetism and superconductivity in the Hubbard model}
+
+\vspace{-6ex}
+\centerline{\includegraphics[width=0.6\textwidth]{\Figures/kotliar06}}
+
+\vspace{-12ex}
+\begin{itemize}
+\item
+Cellular dynamical mean field theory for a square lattice near half
+filling at absolute zero; intermediate coupling.
+\item
+$U=4t$
+\item
+M Capone and G Kotliar, cond-mat/0603227, March 2006
+\end{itemize}
+
+\end{frame}
+
+
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "nbfe2Talk"
+%%% End: 

@@ -1,0 +1,226 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Structural QPT}
+%\subsection{(Sr/Ca)$_3$Ir$_4$Sn$_{13}$}
+%\section{Structure}
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \begin{frame}[label=CIS-1]
+% \frametitle{Quasiskutterudite material family R$_3$T$_4$X$_{13}$}
+% \begin{columns}[t]
+% \column{0.5\textwidth}
+% \begin{itemize}
+% % \item
+% % R = earth alkaline or rare earth, T = transition metal, X = group-4 (Ge, Sn).
+% \item
+% Combination of filled skutterudite (LaRu$_4$P$_{12}$) and A15 structure (Nb$_3$Sn): (X'R$_3$) T$_4$X$_{12}$. 
+% \item
+% Two structure types, both cubic: phase $I$ and $I'$. In $I'$ the lattice constant is doubled: superlattice distortion on $I$. 
+% \item
+% Here, investigate Sr$_3$Ir$_4$Sn$_{13}$ and substitution series to  Ca$_3$Ir$_4$Sn$_{13}$.
+
+% \item
+% Transition $I \rightarrow I'$ on cooling, superlattice formation.
+% \end{itemize}
+% {\small \centerline{[Klintberg PRL (2012)]}}
+% \column{0.5\textwidth}
+% \centerline{~}
+% \centerline {\includegraphics[width=\columnwidth]{\Figures/R3T4X13/Superlattice_QCP_resub_Figure1}}
+% \end{columns}
+% \end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Structure of 3-4-13 compounds}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=CIS-0]
+\frametitle{Cubic quasiskutterudites R$_3$T$_4$X$_{13}$}
+
+%\centerline {\multiinclude[<visible@+-| +>][format=png,graphics={width=0.65\columnwidth}]{\Figures/Structures/R3T4X13/Ca3Ir4Sn13}}
+\centerline{\includegraphics[width=0.65\columnwidth]{\Figures/Structures/R3T4X13/Ca3Ir4Sn13-4}}
+\begin{itemize}
+\item 3-4-13 'Remeika phases'
+% \only<1>{X$_1$ (e.g. Sn) atoms $\rightarrow$ bcc lattice. }
+% \only<2>{X$_1$ and R (e.g. Sr, Ca) atoms $\rightarrow$ A15. }
+% \only<3>{T (e.g. Ir) atoms $\rightarrow$ simple cubic lattice.}
+% \only<4>{X$_2$ 12-cages around X$_1$, with T $\rightarrow$ filled
+% skutterudite. }
+%\only<5->{Structure of R$_3$T$_4$X$_{13}$}
+
+\item %\visible<5-> 
+{Combination of
+  filled skutterudite (LaRu$_4$P$_{12}$) and A15 structure (Nb$_3$Sn):
+  (X'R$_3$) T$_4$X$_{12}$. }
+\end{itemize}
+\end{frame}
+
+%\input{CISAppendix}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Superlattice distortion}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=CIS-1]
+\frametitle{(Sr/Ca)$_3$Ir$_4$Sn$_{13}$}
+
+\centerline{\includegraphics[width=0.8\columnwidth]{\Figures/R3T4X13/Sr3Ir4Sn13_amb-FS-2.pdf}}
+\begin{itemize}
+\item
+Investigate Sr$_3$Ir$_4$Sn$_{13}$ and substitution series to  Ca$_3$Ir$_4$Sn$_{13}$.
+\item
+Lattice instability at $T^* \simeq 147~\rm K$ in
+Sr$_3$Ir$_4$Sn$_{13}$, superconductivity at $T_c \simeq 5~\rm K$.
+
+\end{itemize}
+{\small \centerline{[Klintberg, Goh PRL (2012)]}}
+
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=CIS-1]
+\frametitle{Superlattice formation in (Sr/Ca)$_3$Ir$_4$Sn$_{13}$}
+
+\begin{columns}[t]
+\column{0.7\textwidth}
+\centerline{~}
+\centerline{\includegraphics[width=0.8\columnwidth]{\Figures/R3T4X13/Figure1_SQCP.pdf}}
+\column{0.3\textwidth}
+\centerline{~}
+\centerline{\includegraphics[width=\columnwidth]{\Figures/R3T4X13/Figure2a_SQCP.pdf}}
+\centerline{\includegraphics[width=\columnwidth]{\Figures/R3T4X13/Figure2b_SQCP.pdf}}
+\end{columns}
+
+\begin{itemize}
+% \item
+% R = earth alkaline or rare earth, T = transition metal, X = group-4 (Ge, Sn).
+
+\item
+Two structure types, phase $I$ and $I'$. $I \rightarrow I'$ on cooling.
+
+\item Both structures cubic, $I'$ lattice constant twice that of $I$.
+
+\item $I'$= superlattice distortion on $I$. 
+
+\end{itemize}
+
+\end{frame}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Quantum phase transition}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=CIS-2]
+\frametitle{Superlattice transition and superconductivity are tuned by
+  composition and pressure in (Sr/Ca)$_3$Ir$_4$Sn$_{13}$}
+\begin{columns}[t]
+\column{0.5\textwidth}
+\vspace{-0.7em}
+\centerline{~}
+%\vspace{2em}
+\centerline{\includegraphics[width=\columnwidth]{\Figures/R3T4X13/Superlattice_QCP_resub_Figure2-annot}}
+\column{0.5\textwidth}
+\centerline{~}
+\visible<2->{\centerline {\includegraphics[width=\columnwidth]{\Figures/R3T4X13/Superlattice_QCP_resub_Figure3}}}
+\end{columns}
+
+\begin{itemize}
+\item
+\visible<1->{Structural transition $T^*$ reduced by Ca-substitution
+  and pressure.}
+\item
+\visible<2->{$T_c$ rises on approaching critical pressure, \\ $T$-linear
+  resistivity at $p_c$.}
+\end{itemize}
+
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\subsection{Phonon softening}
+\begin{frame}[label=CIS-phonons]
+\frametitle{Role of phonon dispersion near critical pressure in (Sr/Ca)$_3$Ir$_4$Sn$_{13}$}
+\centerline{\includegraphics[width=0.8\columnwidth]{\Figures/R3T4X13/Phonons}}
+\begin{itemize}
+\item
+Optical mode associated with superlattice transition goes soft near
+$p_c$.
+
+\item
+Dispersion presumably linear, but entire, narrow-width branch is
+lowered.
+
+\item
+Can cause linear $\rho(T)$ for $k_B T>\hbar \Omega$ (frequency scale
+of soft branch), as
+\end{itemize}
+\[ \Delta\rho_{ph}(T) \propto \sum_{\bf q} \alpha_{(tr) \bf q}^2 T \left(\partial n_{\bf
+  q}/\partial T\right)_{\omega_{\bf q}} \rightarrow  T \sum
+  \omega_{\bf q}^{-1} \]
+
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\subsection{Phonon softening}
+\begin{frame}[label=CIS-phonons]
+\frametitle{Calculated phonon dispersion in (Sr/Ca)$_3$Ir$_4$Sn$_{13}$}
+\centerline{\includegraphics[width=\textwidth]{\Figures/R3T4X13/CalcPhonons}}
+\begin{itemize}
+\item
+Numerical study (VASP) reproduces lattice instability at ${\bf Q} =
+(1/2 ~ 1/2 ~ 0)$.
+\item
+Anharmonic effects not included, push up frequency.
+\item 
+Simulated pressure removes instability.
+\end{itemize}
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Phase diagram}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=CIS-3]
+\frametitle{Structural quantum critical point in (Sr/Ca)$_3$Ir$_4$Sn$_{13}$}
+\centerline{\includegraphics[width=0.6\columnwidth]{\Figures/R3T4X13/Figure5_SQCP.pdf}}
+
+\begin{itemize}
+\item
+Combined alloying (chemical pressure) and hydrostatic pressure phase diagram.
+
+\item
+Structural transition suppressed at $p_c = 1.8 ~{\rm GPa}$ in Ca$_3$Ir$_4$Sn$_{13}$.
+
+\item
+Superconducting $T_c$ has broad dome-structure. Associated with softening of optical mode around $p_c$.
+
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=CIS-4]
+\frametitle{Ambient pressure quantum critical point in (Sr/Ca)$_3$Rh$_4$Sn$_{13}$}
+
+
+\includegraphics[height=0.54\columnwidth]{\Figures/R3T4X13/R3Rh4Sn13-1}
+\hfill
+\includegraphics[height=0.57\columnwidth]{\Figures/R3T4X13/R3Rh4Sn13-2}
+
+\centerline{\small [S. K. Goh et al. arXiv:1409.2238v1 (2014)]}
+\begin{itemize}
+\item
+Rh smaller than Ir, causes further chemical pressure shift.
+
+\item
+Structural transition suppressed inCa$_{0.9}$ Sr$_{0.1}$Rh$_4$Sn$_{13}$.
+
+\end{itemize}
+\end{frame}
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "GroTalk"
+%%% End: 

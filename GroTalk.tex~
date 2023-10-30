@@ -1,0 +1,126 @@
+
+\mode<presentation>
+{
+  \usetheme{Goettingen}
+
+
+  \setbeamercovered{transparent}% - Use the \inst command only if there are several affiliations.
+% - Keep it simple, no one is interested in your street address.
+  % or whatever (possibly just delete it)
+  \setbeamerfont{frametitle}{parent=structure,size=\normalsize}
+  \setbeamerfont{title}{size=\normalsize,parent=structure}
+  \setbeamerfont{author}{size=\small,parent=structure}
+  \setbeamercolor{postit}{fg=black,bg=yellow}
+
+}
+
+
+\usepackage[english]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+%%\usepackage{background}
+\usepackage{amsbsy}
+\usepackage{rotating}
+\usepackage{graphicx}
+%%\usepackage[pdftex]{graphicx}
+\usepackage{xmpmulti}
+\usepackage{pgfpages}
+\mode<handout>{%
+  %%\pgfpagesuselayout{2 on 1}[a4paper,border shrink=5mm]
+  \pgfpagesuselayout{4 on 1}[a4paper,landscape,border shrink=5mm]
+}
+%% \usepackage[dvips]{color}
+\usepackage{natbib}
+\usepackage{amsmath}
+%% \usepackage{german}
+%% \usepackage[pdftex]{color}
+%%\usepackage[display]{texpower}
+%%\usepackage[pdftex]{geometry}
+%%\geometry{headsep=3ex,hscale=0.9,includeheadfoot,nofoot,vscale=0.9}
+%\geometry{headsep=2.0em,hscale=1}
+\hypersetup{pdftitle={Loughborough 2014 talk by F. Malte Grosche},
+  pdfsubject={Loughborough 2014 seminar talk (pressure and strain
+  effects in correlated electron materials)},
+  pdfauthor={F. Malte Grosche, Cambridge, fmg12@cam.ac.uk},
+  pdfkeywords={CeAgSb2, NbFe2, CeSb2, Ca3Ir4Sn13 Fermi liquid
+    breakdown, transition metal compound, structural quantum criticality},
+  pdfpagemode={FullScreen}
+  }
+
+
+\newcommand{\Figures}{/Users/fmg12/Documents/data/Figures}
+%\newcommand{\Figures}{/Users/grosche/Documents/data/Figures}
+%\newcommand{\Figures}{/home/grosche/data/Figures}
+
+\include{definitions}
+
+\title % (optional, use only with long paper titles)
+{Electronic and \\ structural instabilities} \vspace{-2ex}
+
+%% \subtitle
+%% {Presentation Subtitle} % (optional)
+
+\author[Loughborough 21/10/2014]{F. M. Grosche} % (optional, use only with lots of authors)
+%%{F.~Author\inst{1} \and S.~Another\inst{2}}
+% - Use the \inst{?} command only if the authors have different
+%   affiliation.
+
+\institute{\em QM group, Cavendish Laboratory, Cambridge} % (optional, but mostly needed)
+{
+%%   \inst{1}%
+%%   Department of Computer Science\\
+%%   University of Somewhere
+%%   \and
+%%   \inst{2}%
+%%   Department of Theoretical Philosophy\\
+%%   University of Elsewhere
+}
+
+%%\date[Cambridge0706]{Cambridge, 4/7/2006}
+\date{}
+
+\subject{High pressure techniques, Low temperature experiments, Experimental methods, Quantum Matter}
+
+\titlegraphic{%
+%   \vspace{-4ex}
+%     \includegraphics[width=0.75\columnwidth,clip=on]{Figures/CritResist/CritResistHeatCap
+%    }
+
+}
+\begin{document}
+\include{IntroTalk}
+\include{QFM}
+
+\include{GroupList}
+%\include{PressureIntro}
+%\include{Structures}
+
+
+%\include{TheoryTalk}
+%\include{GeneralTopics}
+%\include{CeAgSb2Talk}
+%\include{NbFe2Talk}
+%\include{NbFe2-2}
+
+\include{CISTalk}
+
+\include{CeSb2Talk}
+
+\include{HighPressure}
+
+\include{Ending}
+
+
+\appendix
+\include{HighPressureAppendix}
+\include{CISAppendix}
+%\include{NbFe2Appendix}
+\include{GeneralAppendix}
+\include{QFMAppendix}
+\end{document}
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 

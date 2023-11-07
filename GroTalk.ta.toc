@@ -1,49 +1,55 @@
 \babel@toc {english}{}\relax 
-\beamer@sectionintoc {1}{Structural quantum critical point}{7}{0}{1}
-\beamer@subsectionintoc {1}{1}{Structural transition in R$_3$T$_4$Sn$_{13}$}{8}{0}{1}
-\beamer@subsectionintoc {1}{2}{Structural qcp, $\rho \propto T$}{9}{0}{1}
-\beamer@sectionintoc {2}{Host-guest structures}{13}{0}{2}
-\beamer@subsectionintoc {2}{1}{High pressure structures}{13}{0}{2}
-\beamer@subsectionintoc {2}{2}{$\rho \propto T$, quasiperiodic structure}{19}{0}{2}
-\beamer@subsectionintoc {2}{3}{Sliding mode}{21}{0}{2}
-\beamer@subsectionintoc {2}{4}{Role of approximants}{24}{0}{2}
-\beamer@subsectionintoc {2}{5}{Overdamped phonons}{29}{0}{2}
-\beamer@sectionintoc {3}{ADR}{30}{0}{3}
-\beamer@sectionintoc {4}{Kondo lattice}{32}{0}{4}
-\beamer@subsectionintoc {4}{1}{FM Kondo lattice at $p=0$}{33}{0}{4}
-\beamer@subsectionintoc {4}{2}{High-$p$ structural change}{34}{0}{4}
-\beamer@subsectionintoc {4}{3}{Structure resolution}{37}{0}{4}
-\beamer@subsectionintoc {4}{4}{High $p$ phase}{41}{0}{4}
-\beamer@subsectionintoc {4}{5}{Phase diagram}{42}{0}{4}
-\beamer@subsectionintoc {4}{6}{$T_c$, high $B_{c2}$, $\rho \propto T$}{43}{0}{4}
-\beamer@subsectionintoc {4}{7}{Critical field with $p$}{44}{0}{4}
-\beamer@subsectionintoc {4}{8}{Pauli limit violation}{45}{0}{4}
-\beamer@sectionintoc {5}{Summary}{46}{0}{5}
-\beamer@sectionintoc {6}{Mott localisation}{47}{1}{6}
-\beamer@subsectionintoc {6}{1}{Mott Isolator NiS$_2$}{48}{1}{6}
-\beamer@subsectionintoc {6}{2}{High pressure QO}{50}{1}{6}
-\beamer@sectionintoc {7}{YFe$_2$Ge$_2$}{55}{1}{7}
-\beamer@subsectionintoc {7}{1}{Superconducting and normal states}{56}{1}{7}
-\beamer@subsectionintoc {7}{2}{QO results}{57}{1}{7}
-\beamer@subsectionintoc {7}{3}{Neutrons}{58}{1}{7}
-\beamer@sectionintoc {8}{LuFe$_2$Ge$_2$}{59}{1}{8}
-\beamer@subsectionintoc {8}{1}{Crystal growth}{60}{1}{8}
-\beamer@subsectionintoc {8}{2}{SDW + superconductivity}{61}{1}{8}
-\beamer@subsectionintoc {8}{3}{QCP}{63}{1}{8}
-\beamer@subsectionintoc {8}{4}{Superconductivity}{64}{1}{8}
-\beamer@sectionintoc {9}{CeSb$_2$ extra}{65}{1}{9}
-\beamer@subsectionintoc {9}{1}{CeSb$_2$}{65}{1}{9}
-\beamer@subsectionintoc {9}{2}{High-$p$ XRD}{66}{1}{9}
-\beamer@subsectionintoc {9}{3}{High-$p$ structural change}{67}{1}{9}
-\beamer@subsectionintoc {9}{4}{Lattice pars. vs. $p$}{74}{1}{9}
-\beamer@subsectionintoc {9}{5}{High-$p$ muSR}{77}{1}{9}
-\beamer@subsectionintoc {9}{6}{Towards a qcp in the high-$p$ structure}{78}{1}{9}
-\beamer@sectionintoc {10}{Host-guest extra}{79}{1}{10}
-\beamer@sectionintoc {11}{3-4-13 materials}{79}{1}{11}
-\beamer@subsectionintoc {11}{1}{Structure of 3-4-13 compounds}{82}{1}{11}
-\beamer@subsectionintoc {11}{2}{Phase diagram}{87}{1}{11}
-\beamer@subsectionintoc {11}{3}{3-4-13 Related materials}{88}{1}{11}
-\beamer@subsectionintoc {11}{4}{Aperiodic compounds}{92}{1}{11}
-\beamer@sectionintoc {12}{Materials discovery}{102}{1}{12}
-\beamer@subsectionintoc {12}{1}{Large applications}{103}{1}{12}
-\beamer@subsectionintoc {12}{2}{Systematic search strategy}{106}{1}{12}
+\beamer@sectionintoc {1}{Introduction}{1}{0}{1}
+\beamer@sectionintoc {2}{High-$p$ QO}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Mott Isolator NiS$_2$}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{High pressure NiS$_2$}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{High pressure QO}{11}{0}{2}
+\beamer@subsectionintoc {2}{4}{NiS$_2$ Quantum oscillations}{14}{0}{2}
+\beamer@subsectionintoc {2}{5}{Mass and frequency vs. $p$}{15}{0}{2}
+\beamer@sectionintoc {3}{Host-guest structures}{18}{0}{3}
+\beamer@subsectionintoc {3}{1}{High pressure structures}{19}{0}{3}
+\beamer@subsectionintoc {3}{2}{$\rho \propto T$, quasiperiodic structure}{25}{0}{3}
+\beamer@subsectionintoc {3}{3}{Sliding mode}{27}{0}{3}
+\beamer@subsectionintoc {3}{4}{Role of approximants}{30}{0}{3}
+\beamer@subsectionintoc {3}{5}{Overdamped phonons}{35}{0}{3}
+\beamer@sectionintoc {4}{ADR}{36}{0}{4}
+\beamer@sectionintoc {5}{Kondo lattice}{38}{0}{5}
+\beamer@subsectionintoc {5}{1}{FM Kondo lattice at $p=0$}{39}{0}{5}
+\beamer@subsectionintoc {5}{2}{High-$p$ structural change}{40}{0}{5}
+\beamer@subsectionintoc {5}{3}{Structure resolution}{43}{0}{5}
+\beamer@subsectionintoc {5}{4}{High $p$ phase}{47}{0}{5}
+\beamer@subsectionintoc {5}{5}{Phase diagram}{48}{0}{5}
+\beamer@subsectionintoc {5}{6}{$T_c$, high $B_{c2}$, $\rho \propto T$}{49}{0}{5}
+\beamer@subsectionintoc {5}{7}{Critical field with $p$}{50}{0}{5}
+\beamer@subsectionintoc {5}{8}{Pauli limit violation}{51}{0}{5}
+\beamer@sectionintoc {6}{Summary}{52}{0}{6}
+\beamer@subsectionintoc {6}{1}{Metallising NiS$_2$}{53}{1}{6}
+\beamer@subsectionintoc {6}{2}{NiS$_2$ crystal growth}{54}{1}{6}
+\beamer@subsectionintoc {6}{3}{First observation}{56}{1}{6}
+\beamer@subsectionintoc {6}{4}{50 kbar QO}{58}{1}{6}
+\beamer@subsectionintoc {6}{5}{Rotation study}{59}{1}{6}
+\beamer@sectionintoc {7}{YFe$_2$Ge$_2$}{62}{1}{7}
+\beamer@subsectionintoc {7}{1}{Superconducting and normal states}{63}{1}{7}
+\beamer@subsectionintoc {7}{2}{QO results}{64}{1}{7}
+\beamer@subsectionintoc {7}{3}{Neutrons}{65}{1}{7}
+\beamer@sectionintoc {8}{LuFe$_2$Ge$_2$}{66}{1}{8}
+\beamer@subsectionintoc {8}{1}{Crystal growth}{67}{1}{8}
+\beamer@subsectionintoc {8}{2}{SDW + superconductivity}{68}{1}{8}
+\beamer@subsectionintoc {8}{3}{QCP}{70}{1}{8}
+\beamer@subsectionintoc {8}{4}{Superconductivity}{71}{1}{8}
+\beamer@sectionintoc {9}{CeSb$_2$ extra}{72}{1}{9}
+\beamer@subsectionintoc {9}{1}{CeSb$_2$}{72}{1}{9}
+\beamer@subsectionintoc {9}{2}{High-$p$ XRD}{73}{1}{9}
+\beamer@subsectionintoc {9}{3}{High-$p$ structural change}{74}{1}{9}
+\beamer@subsectionintoc {9}{4}{Lattice pars. vs. $p$}{81}{1}{9}
+\beamer@subsectionintoc {9}{5}{High-$p$ muSR}{84}{1}{9}
+\beamer@subsectionintoc {9}{6}{Towards a qcp in the high-$p$ structure}{85}{1}{9}
+\beamer@sectionintoc {10}{Structural quantum critical point}{86}{1}{10}
+\beamer@subsectionintoc {10}{1}{Structural transition in R$_3$T$_4$Sn$_{13}$}{87}{1}{10}
+\beamer@subsectionintoc {10}{2}{Structural qcp, $\rho \propto T$}{88}{1}{10}
+\beamer@sectionintoc {11}{3-4-13 materials}{92}{1}{11}
+\beamer@subsectionintoc {11}{1}{Structure of 3-4-13 compounds}{95}{1}{11}
+\beamer@subsectionintoc {11}{2}{Phase diagram}{100}{1}{11}
+\beamer@subsectionintoc {11}{3}{3-4-13 Related materials}{101}{1}{11}
+\beamer@sectionintoc {12}{Host-guest extra}{105}{1}{12}
+\beamer@subsectionintoc {12}{1}{Aperiodic compounds}{105}{1}{12}

@@ -45,8 +45,8 @@
 %%\usepackage[pdftex]{geometry}
 %%\geometry{headsep=3ex,hscale=0.9,includeheadfoot,nofoot,vscale=0.9}
 %\geometry{headsep=2.0em,hscale=1}
-\hypersetup{pdftitle={UCL seminar 10/2023 by F. Malte Grosche},
-  pdfsubject={UCL 10/23},
+\hypersetup{pdftitle={IOP Beijing seminar 11/2023 by F. Malte Grosche},
+  pdfsubject={IOP 11/23},
   pdfauthor={F. Malte Grosche, Cambridge, fmg12@cam.ac.uk},
   pdfkeywords={CeSb2},
   pdfpagemode={FullScreen}
@@ -59,12 +59,12 @@
 
 
 \title % (optional, use only with long paper titles)
-{CeSb$_2$} \vspace{-2ex}
+{NiS$_2$, Bi-III, CeSb$_2$} \vspace{-2ex}
 
 %% \subtitle
 %% {Presentation Subtitle} % (optional)
 
-\author[UCL 10/2023]{F. M. Grosche} % (optional, use only with lots of authors)
+\author[IOP 11/2023]{F. M. Grosche} % (optional, use only with lots of authors)
 %%{F.~Author\inst{1} \and S.~Another\inst{2}}
 % - Use the \inst{?} command only if the authors have different
 %   affiliation.
@@ -95,33 +95,27 @@
 
 \include{definitions.tex}
 
-%\section{Introduction}
+\section{Introduction}
 % \input{ResearchHighlights}      
 
 
 %\input{GroupList}
-
-
 %\input{QMDescription.tex}
-
 %\input{TheoryTalk}
 %\input{GeneralTopics}
-%\subsection{QM Research Highlights}
-
-
-%\section{Phase separation}
-%\input{CeSb2Talk}
-%\section{Quantum Functional Materials}
-%\section{High-$p$ Fermi surface studies}
-
-
 
 \input{IntroTalk.tex}
+\input{ShortAppendix.tex}
 
-\section{Structural quantum critical point}
-\input{CISTalk.tex}
+\section{High-$p$ QO}
+\input{NiS2Talk.tex}
+
 
 \section{Host-guest structures}
+\begin{frame}[plain,label=Conc]
+  \frametitle {Soft phonons at structural qcp and in quasiperiodic materials}
+  \includegraphics[width=1.2\textwidth]{\data/R3Ir4Sn13/Collaborators/CollabCISblue}
+\end{frame}  
 \input{BiTalk.tex}
 \input{QuasiGeneralTalk.tex}
 
@@ -144,13 +138,12 @@
 
 \appendix
 
-%\input{NiS2Appendix}
+\input{NiS2Appendix}
 %
 %
 %\section{Hund's metal}
 %
-\section{Mott localisation}
-\input{NiS2Talk}
+
 
 \section{YFe$_2$Ge$_2$}
 \input{YFGMiniTalk.tex}
@@ -163,26 +156,29 @@
 \section{CeSb$_2$ extra}
 \input{CeSb2Appendix.tex}
 
-\section{Host-guest extra}
+\section{Structural quantum critical point}
+\input{CISTalk.tex}
 \input{CISAppendix}
+
+\section{Host-guest extra}
 
 \input{BiAppendix}
 
 
-\section{Materials discovery}
-\input{SuperconResurgent.tex}
+% \section{Materials discovery}
+% \input{SuperconResurgent.tex}
 
 
-%\input{QFMAppendix}
-%\input{NbFe2Talk}
+% \input{QFMAppendix}
+% \input{NbFe2Talk}
 
 % \input{HighPressure}
 
 
-%% \input{GeneralAppendix}
+% \input{GeneralAppendix}
 
 
-% % \input{PressureIntro}
+% \input{PressureIntro}
 
 
 \end{document}

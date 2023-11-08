@@ -1,0 +1,81 @@
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \section{Quantum criticality -- more info}
+% \subsection{Relaxation rates}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=quancrit1]
+\frametitle{Quantum criticality-1}
+
+\begin{columns}[t]
+\column{0.6\textwidth}
+\centerline{~}
+
+Fluctuating \hl{local order parameter} $m(\vec r, \vec t)$, response
+function (susceptibility)
+\[ \chi_{\vec q \omega} = \chi_{\vec q} \frac{1}{1-i\omega/\Gamma_\vec q} \]
+
+\begin{itemize}
+\item Relaxation rate $\Gamma_\vec q \sim {\chi_\vec q}^{-1}$
+\item $\Gamma_\vec q \rightarrow 0$ at $T_N$, $\bf q=\vec Q$
+\end{itemize}
+
+\column{0.4\textwidth}
+\centerline{~}
+\includegraphics[width=\columnwidth,clip=on]{\Figures/QuanCrit/GammaQ-0}
+\end{columns}
+
+\vspace{4ex}
+\centerline{\hl{Power spectrum} of $m$:
+$\langle |m_{\vec q\omega}|^2 \rangle = \left(n_\omega + \frac{1}{2}\right) \Im(\chi_{\vec q \omega})$}
+
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \subsection{Thermal excitation}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[label=quancrit2]{Quantum criticality-2}
+
+\begin{columns}[t]
+  \column{0.6\textwidth}
+  \centerline{~}
+  \[ \chi_{\vec q \omega} = \chi_{\vec q} \frac{1}{1-i\omega/\Gamma_\vec q} \]
+
+  \[ \langle |m_{\vec q\omega}|^2 \rangle = \left(n_\omega + \frac{1}{2}\right) \Im(\chi_{\vec q \omega}) \]
+
+\begin{itemize}
+\item<2->
+  Integrals over $\vec q$ and $\omega$, e.g.
+\end{itemize}
+
+  \column{0.4\textwidth}
+  \centerline{~}
+  \multiinclude[<visible@+- | +->][graphics={width=\columnwidth,clip=on},format=pdf]{\Figures/QuanCrit/GammaQ}
+
+\end{columns}
+\visible<2->{\[ \langle m(\vec r) m(0) \rangle \propto \int{d^3 \vec q \chi_\vec q e^{-i \vec q \vec r}} \int {d\omega \left(n_\omega + \frac {1}{2}\right) \frac{\omega/\Gamma_\vec q}{1+\omega^2/\Gamma_\vec q^2}} \]
+
+\raggedleft{(Bose-factor $n_\omega \rightarrow \frac{k_B T}{\hbar\omega}$ if $k_B
+T >> \hbar \omega$)}}
+
+\begin{itemize}
+\item<3->
+  \hl{Classical} critical behaviour: $k_B T >> \hbar \Gamma_\vec q$ for
+  critical modes $\vec q$.  Integrals separable, frequency integral
+  gives $k_B T$ (\hl{equipartition}). Only static susc.  $\chi_\vec q$
+  survives.  
+
+\item<4->
+  \hl{Quantum critical} behaviour: $k_B T$ falls inside dispersion
+  $\Gamma_\vec q$.  Dynamics (via $\Gamma_\vec q$) influence result.
+\end{itemize}
+
+\end{frame}
+
+
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "GroTalk"
+%%% End: 

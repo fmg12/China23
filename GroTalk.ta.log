@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.7)  7 NOV 2023 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.7)  8 NOV 2023 11:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/fmg12/Documents/publish/2023/China23/Talk/GroTalk.ta
-(/Users/fmg12/Documents/publish/2023/China23/Talk/GroTalk.ta.tex
+**/Users/fmg12/Documents/publish/2023/China23/TalkIOP/GroTalk.ta
+(/Users/fmg12/Documents/publish/2023/China23/TalkIOP/GroTalk.ta.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
@@ -1353,7 +1353,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{NiS2-1}) has b
                    \relax 
 l.73 \end{frame}
                 
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/Resistivity/SvenRes.pdf, id=754, 746.83699pt x 537.38266pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/Resistivity/SvenRes.pdf, id=752, 746.83699pt x 537.38266pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/Resistivity/SvenRes.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/Resistivity/SvenRes.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/Resistivity/SvenRes.pdf  used on input line 73.
@@ -1364,12 +1364,12 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) [10
 
  </Users/fmg12/Documents/data/NiS2/FiguresNiS2/Resistivity/SvenRes.pdf>]
-</Users/fmg12/Documents/data/Figures/Lectures/QuantOsc/Sr2RuO4Osc.pdf, id=859, 363.34323pt x 59.22838pt>
+</Users/fmg12/Documents/data/Figures/Lectures/QuantOsc/Sr2RuO4Osc.pdf, id=856, 363.34323pt x 59.22838pt>
 File: /Users/fmg12/Documents/data/Figures/Lectures/QuantOsc/Sr2RuO4Osc.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Lectures/QuantOsc/Sr2RuO4Osc.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Lectures/QuantOsc/Sr2RuO4Osc.pdf  used on input line 88.
 (pdftex.def)             Requested size: 223.07054pt x 36.36331pt.
-</Users/fmg12/Documents/data/Figures/FermInstab/QuantOsc-Xray.pdf, id=860, 505.9958pt x 422.84494pt>
+</Users/fmg12/Documents/data/Figures/FermInstab/QuantOsc-Xray.pdf, id=857, 505.9958pt x 422.84494pt>
 File: /Users/fmg12/Documents/data/Figures/FermInstab/QuantOsc-Xray.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/FermInstab/QuantOsc-Xray.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/FermInstab/QuantOsc-Xray.pdf  used on input line 88.
@@ -1388,7 +1388,7 @@ Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/FermInstab/QuantOsc
  [12
 
 ]
-</Users/fmg12/Documents/data/Figures/Pressure/TDO/QO-DAC-TDO.pdf, id=1031, 412.24829pt x 253.28838pt>
+</Users/fmg12/Documents/data/Figures/Pressure/TDO/QO-DAC-TDO.pdf, id=1026, 412.24829pt x 253.28838pt>
 File: /Users/fmg12/Documents/data/Figures/Pressure/TDO/QO-DAC-TDO.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Pressure/TDO/QO-DAC-TDO.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Pressure/TDO/QO-DAC-TDO.pdf  used on input line 120.
@@ -1408,7 +1408,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 124.
 
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/HomeDetail/QOPlot3FigText.pdf, id=1087, 658.7736pt x 453.84795pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/HomeDetail/QOPlot3FigText.pdf, id=1081, 658.7736pt x 453.84795pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/HomeDetail/QOPlot3FigText.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/HomeDetail/QOPlot3FigText.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/HomeDetail/QOPlot3FigText.pdf  used on input line 147.
@@ -1424,7 +1424,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 154.
 
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/PressureDependence/Fig3_PressureDep4FignoLabels.pdf, id=1189, 699.81764pt x 473.97781pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/PressureDependence/Fig3_PressureDep4FignoLabels.pdf, id=1182, 699.81764pt x 473.97781pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/PressureDependence/Fig3_PressureDep4FignoLabels.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/PressureDependence/Fig3_PressureDep4FignoLabels.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/PressureDependence/Fig3_PressureDep4FignoLabels.pdf  used on input line 176.
@@ -1436,7 +1436,7 @@ Overfull \vbox (2.55338pt too high) detected at line 176
 [15
 
  </Users/fmg12/Documents/data/NiS2/FiguresNiS2/PressureDependence/Fig3_PressureDep4FignoLabels.pdf>]
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/PhaseDiaOverview/Fig1_PhaseDiaWideFig.pdf, id=1249, 644.6466pt x 418.20306pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/PhaseDiaOverview/Fig1_PhaseDiaWideFig.pdf, id=1241, 644.6466pt x 418.20306pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/PhaseDiaOverview/Fig1_PhaseDiaWideFig.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/PhaseDiaOverview/Fig1_PhaseDiaWideFig.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/PhaseDiaOverview/Fig1_PhaseDiaWideFig.pdf  used on input line 206.
@@ -1451,7 +1451,7 @@ Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/PhaseDiaOv
  [17
 
 ])
-</Users/fmg12/Documents/data/R3Ir4Sn13/Collaborators/CollabCISblue.pdf, id=1358, 813.49245pt x 521.28822pt>
+</Users/fmg12/Documents/data/R3Ir4Sn13/Collaborators/CollabCISblue.pdf, id=1348, 813.49245pt x 521.28822pt>
 File: /Users/fmg12/Documents/data/R3Ir4Sn13/Collaborators/CollabCISblue.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/R3Ir4Sn13/Collaborators/CollabCISblue.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/R3Ir4Sn13/Collaborators/CollabCISblue.pdf  used on input line 118.
@@ -1464,32 +1464,32 @@ Overfull \hbox (55.76657pt too wide) in paragraph at lines 118--118
 [18
 
  </Users/fmg12/Documents/data/R3Ir4Sn13/Collaborators/CollabCISblue.pdf>] (./BiTalk.tex
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-0.pdf, id=1407, 691.58376pt x 489.83pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-0.pdf, id=1396, 691.58376pt x 489.83pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-0.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-0.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-0.pdf  used on input line 25.
 (pdftex.def)             Requested size: 250.9517pt x 177.73633pt.
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-1.pdf, id=1408, 691.58376pt x 489.83pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-1.pdf, id=1397, 691.58376pt x 489.83pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-1.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-1.pdf  used on input line 25.
 (pdftex.def)             Requested size: 250.9517pt x 177.73633pt.
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-2.pdf, id=1409, 691.58376pt x 489.83pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-2.pdf, id=1398, 691.58376pt x 489.83pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-2.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-2.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-2.pdf  used on input line 25.
 (pdftex.def)             Requested size: 250.9517pt x 177.73633pt.
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-3.pdf, id=1410, 691.58376pt x 489.83pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-3.pdf, id=1399, 691.58376pt x 489.83pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-3.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-3.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-3.pdf  used on input line 25.
 (pdftex.def)             Requested size: 250.9517pt x 177.73633pt.
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-4.pdf, id=1411, 691.58376pt x 489.83pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-4.pdf, id=1400, 691.58376pt x 489.83pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-4.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-4.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-4.pdf  used on input line 25.
 (pdftex.def)             Requested size: 250.9517pt x 177.73633pt.
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-5.pdf, id=1412, 593.21625pt x 420.57124pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-5.pdf, id=1401, 593.21625pt x 420.57124pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-5.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-5.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiOverviewLog-5.pdf  used on input line 25.
@@ -1648,12 +1648,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 28.
 
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiRes1Figure-0.pdf, id=1709, 710.655pt x 437.635pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiRes1Figure-0.pdf, id=1693, 710.655pt x 437.635pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiRes1Figure-0.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiRes1Figure-0.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiRes1Figure-0.pdf  used on input line 52.
 (pdftex.def)             Requested size: 264.89441pt x 163.13109pt.
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiRes1Figure-1.pdf, id=1710, 710.655pt x 437.635pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiRes1Figure-1.pdf, id=1694, 710.655pt x 437.635pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiRes1Figure-1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiRes1Figure-1.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiRes1Figure-1.pdf  used on input line 52.
@@ -1672,12 +1672,12 @@ Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiRes1Figure
  [26
 
 ]
-</Users/fmg12/Documents/data/Figures/Structures/Bismuth/Bi3Struct.pdf, id=1868, 394.47375pt x 183.68625pt>
+</Users/fmg12/Documents/data/Figures/Structures/Bismuth/Bi3Struct.pdf, id=1850, 394.47375pt x 183.68625pt>
 File: /Users/fmg12/Documents/data/Figures/Structures/Bismuth/Bi3Struct.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Structures/Bismuth/Bi3Struct.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/Bismuth/Bi3Struct.pdf  used on input line 76.
 (pdftex.def)             Requested size: 237.01326pt x 110.36394pt.
-</Users/fmg12/Documents/data/Figures/Bi/PhasonModecrop.pdf, id=1869, 439.10222pt x 100.17474pt>
+</Users/fmg12/Documents/data/Figures/Bi/PhasonModecrop.pdf, id=1851, 439.10222pt x 100.17474pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/PhasonModecrop.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/PhasonModecrop.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/PhasonModecrop.pdf  used on input line 76.
@@ -1696,67 +1696,143 @@ Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/PhasonModecrop.p
  [28
 
 ]
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Monserrat0217/PhononDispersionFigure.pdf, id=2038, 485.815pt x 439.6425pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-0.png, id=2018, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-0.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-0.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-0.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-0.png> <a0,fr0>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-1.png, id=2022, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-1.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-1.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-1.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-1.png> <a0,fr1>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-2.png, id=2026, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-2.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-2.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-2.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-2.png> <a0,fr2>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-3.png, id=2030, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-3.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-3.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-3.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-3.png> <a0,fr3>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-4.png, id=2034, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-4.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-4.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-4.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-4.png> <a0,fr4>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-5.png, id=2038, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-5.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-5.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-5.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-5.png> <a0,fr5>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-6.png, id=2042, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-6.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-6.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-6.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-6.png> <a0,fr6>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-7.png, id=2046, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-7.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-7.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-7.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-7.png> <a0,fr7>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-8.png, id=2050, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-8.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-8.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-8.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-8.png> <a0,fr8>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-9.png, id=2054, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-9.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-9.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-9.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-9.png> <a0,fr9>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-10.png, id=2058, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-10.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-10.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-10.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-10.png> <a0,fr10>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-11.png, id=2062, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-11.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-11.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-11.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-11.png> <a0,fr11>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-12.png, id=2066, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-12.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-12.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-12.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-12.png> <a0,fr12>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-13.png, id=2070, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-13.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-13.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-13.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-13.png> <a0,fr13>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-14.png, id=2074, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-14.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-14.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-14.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-14.png> <a0,fr14>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-15.png, id=2078, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-15.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-15.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-15.png  used on input line 86.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-15.png> <a0,fr15> [29
+
+]
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-0.png, id=2132, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-0.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-0.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-0.png  used on input line 96.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-0.png> <a1,fr0>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-1.png, id=2136, 648.4225pt x 652.4375pt>
+File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-1.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-1.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-1.png  used on input line 96.
+(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-1.png> <a1,fr1> [30
+
+]
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Monserrat0217/PhononDispersionFigure.pdf, id=2177, 485.815pt x 439.6425pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Monserrat0217/PhononDispersionFigure.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Monserrat0217/PhononDispersionFigure.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Monserrat0217/PhononDispersionFigure.pdf  used on input line 96.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Monserrat0217/PhononDispersionFigure.pdf  used on input line 115.
 (pdftex.def)             Requested size: 195.18513pt x 176.63205pt.
- [29
-
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Monserrat0217/PhononDispersionFigure.pdf>]
-</Users/fmg12/Documents/data/K/PhononCalc/Approximants.pdf, id=2108, 737.71844pt x 463.1723pt>
-File: /Users/fmg12/Documents/data/K/PhononCalc/Approximants.pdf Graphic file (type pdf)
-<use /Users/fmg12/Documents/data/K/PhononCalc/Approximants.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/K/PhononCalc/Approximants.pdf  used on input line 117.
-(pdftex.def)             Requested size: 250.9517pt x 157.5613pt.
- [30
-
- </Users/fmg12/Documents/data/K/PhononCalc/Approximants.pdf>]
-</Users/fmg12/Documents/data/K/PhononCalc/Lambda.pdf, id=2251, 757.83015pt x 525.98221pt>
-File: /Users/fmg12/Documents/data/K/PhononCalc/Lambda.pdf Graphic file (type pdf)
-<use /Users/fmg12/Documents/data/K/PhononCalc/Lambda.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/K/PhononCalc/Lambda.pdf  used on input line 138.
-(pdftex.def)             Requested size: 250.9517pt x 174.16858pt.
  [31
 
- </Users/fmg12/Documents/data/K/PhononCalc/Lambda.pdf>]) (./QuasiGeneralTalk.tex
-</Users/fmg12/Documents/data/In5Bi3/In5Bi3/In5Bi3FigLabels.pdf, id=2358, 808.73242pt x 465.63411pt>
-File: /Users/fmg12/Documents/data/In5Bi3/In5Bi3/In5Bi3FigLabels.pdf Graphic file (type pdf)
-<use /Users/fmg12/Documents/data/In5Bi3/In5Bi3/In5Bi3FigLabels.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/In5Bi3/In5Bi3/In5Bi3FigLabels.pdf  used on input line 24.
-(pdftex.def)             Requested size: 264.89441pt x 152.51582pt.
+ </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Monserrat0217/PhononDispersionFigure.pdf>]
+</Users/fmg12/Documents/data/K/PhononCalc/Approximants.pdf, id=2247, 737.71844pt x 463.1723pt>
+File: /Users/fmg12/Documents/data/K/PhononCalc/Approximants.pdf Graphic file (type pdf)
+<use /Users/fmg12/Documents/data/K/PhononCalc/Approximants.pdf>
+Package pdftex.def Info: /Users/fmg12/Documents/data/K/PhononCalc/Approximants.pdf  used on input line 136.
+(pdftex.def)             Requested size: 250.9517pt x 157.5613pt.
  [32
 
- </Users/fmg12/Documents/data/In5Bi3/In5Bi3/In5Bi3FigLabels.pdf>]
-</Users/fmg12/Documents/data/Sb/FiguresSb/105kbar/Res105Fig2.pdf, id=2434, 737.42683pt x 540.11945pt>
-File: /Users/fmg12/Documents/data/Sb/FiguresSb/105kbar/Res105Fig2.pdf Graphic file (type pdf)
-<use /Users/fmg12/Documents/data/Sb/FiguresSb/105kbar/Res105Fig2.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Sb/FiguresSb/105kbar/Res105Fig2.pdf  used on input line 54.
-(pdftex.def)             Requested size: 264.89441pt x 194.02252pt.
+ </Users/fmg12/Documents/data/K/PhononCalc/Approximants.pdf>]
+</Users/fmg12/Documents/data/K/PhononCalc/Lambda.pdf, id=2389, 757.83015pt x 525.98221pt>
+File: /Users/fmg12/Documents/data/K/PhononCalc/Lambda.pdf Graphic file (type pdf)
+<use /Users/fmg12/Documents/data/K/PhononCalc/Lambda.pdf>
+Package pdftex.def Info: /Users/fmg12/Documents/data/K/PhononCalc/Lambda.pdf  used on input line 157.
+(pdftex.def)             Requested size: 250.9517pt x 174.16858pt.
  [33
 
- </Users/fmg12/Documents/data/Sb/FiguresSb/105kbar/Res105Fig2.pdf>]
-Overfull \hbox (113.06068pt too wide) detected at line 94
- \OT1/cmss/m/n/10 ^^A\OML/cmm/m/it/10 ^^Z \OMS/cmsy/m/n/10 / [][] \OML/cmm/m/it/10 !\T1/phv/m/sl/10 n[]d\OML/cmm/m/it/10 ! \OT1/cmss/m/n/10 = [][] []\T1/phv/m/sl/10 d\OML/cmm/m/it/10 ! \OMS/cmsy/m/n/10 / \T1/phv/m/sl/10 T[]
- []
-
-</Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFact.pdf, id=2517, 361.35pt x 505.89pt>
-File: /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFact.pdf Graphic file (type pdf)
-<use /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFact.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFact.pdf  used on input line 94.
-(pdftex.def)             Requested size: 132.4472pt x 185.42409pt.
-[34
-
- </Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFact.pdf>]
-</Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFactOverDampedFig.pdf, id=2575, 278.32501pt x 420.83pt>
-File: /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFactOverDampedFig.pdf Graphic file (type pdf)
-<use /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFactOverDampedFig.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFactOverDampedFig.pdf  used on input line 131.
-(pdftex.def)             Requested size: 132.4472pt x 200.26875pt.
- [35
-
- </Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFactOverDampedFig.pdf>]) (./ADRTalk.tex
-</Users/fmg12/Documents/data/Figures/Apparatus/ADR/ADRSuccesses.pdf, id=2643, 767.89227pt x 539.9038pt>
+ </Users/fmg12/Documents/data/K/PhononCalc/Lambda.pdf>]) (./ADRTalk.tex
+</Users/fmg12/Documents/data/Figures/Apparatus/ADR/ADRSuccesses.pdf, id=2494, 767.89227pt x 539.9038pt>
 File: /Users/fmg12/Documents/data/Figures/Apparatus/ADR/ADRSuccesses.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Apparatus/ADR/ADRSuccesses.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Apparatus/ADR/ADRSuccesses.pdf  used on input line 7.
@@ -1766,18 +1842,18 @@ Overfull \hbox (55.76657pt too wide) in paragraph at lines 7--7
 [][]  
  []
 
-[36
+[34
 
  </Users/fmg12/Documents/data/Figures/Apparatus/ADR/ADRSuccesses.pdf>]
-</Users/fmg12/Documents/data/Figures/Apparatus/ADR/PPMSModule2c.pdf, id=2724, 546.63322pt x 441.9936pt>
+</Users/fmg12/Documents/data/Figures/Apparatus/ADR/PPMSModule2c.pdf, id=2575, 546.63322pt x 441.9936pt>
 File: /Users/fmg12/Documents/data/Figures/Apparatus/ADR/PPMSModule2c.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Apparatus/ADR/PPMSModule2c.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Apparatus/ADR/PPMSModule2c.pdf  used on input line 16.
 (pdftex.def)             Requested size: 264.89441pt x 214.18454pt.
- [37
+ [35
 
  </Users/fmg12/Documents/data/Figures/Apparatus/ADR/PPMSModule2c.pdf>]) (./CeSb2StructTalk.tex
-<GroupList.pdf, id=2771, 785.98723pt x 454.26749pt>
+<GroupList.pdf, id=2621, 785.98723pt x 454.26749pt>
 File: GroupList.pdf Graphic file (type pdf)
 <use GroupList.pdf>
 Package pdftex.def Info: GroupList.pdf  used on input line 17.
@@ -1787,7 +1863,7 @@ Overfull \hbox (55.76657pt too wide) in paragraph at lines 17--17
 [][]  
  []
 
-[38
+[36
 
  <./GroupList.pdf>]
 
@@ -1798,12 +1874,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 24.
 
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/OverviewMagnetic.pdf, id=2817, 645.41125pt x 258.9675pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/OverviewMagnetic.pdf, id=2668, 645.41125pt x 258.9675pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/OverviewMagnetic.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/OverviewMagnetic.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/OverviewMagnetic.pdf  used on input line 44.
 (pdftex.def)             Requested size: 278.83713pt x 111.8794pt.
-[39
+[37
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/OverviewMagnetic.pdf>]
 
@@ -1814,22 +1890,22 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 47.
 
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-0.pdf, id=2963, 638.385pt x 456.70625pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-0.pdf, id=2814, 638.385pt x 456.70625pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-0.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-0.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-0.pdf  used on input line 66.
 (pdftex.def)             Requested size: 223.07054pt x 159.58476pt.
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-1.pdf, id=2964, 638.385pt x 456.70625pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-1.pdf, id=2815, 638.385pt x 456.70625pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-1.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-1.pdf  used on input line 66.
 (pdftex.def)             Requested size: 223.07054pt x 159.58476pt.
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-2.pdf, id=2965, 638.385pt x 456.70625pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-2.pdf, id=2816, 638.385pt x 456.70625pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-2.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-2.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-2.pdf  used on input line 66.
 (pdftex.def)             Requested size: 223.07054pt x 159.58476pt.
-[40
+[38
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-0.pdf> </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-1.pdf> </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-2.pdf>]
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-0.pdf Graphic file (type pdf)
@@ -1844,7 +1920,7 @@ File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2Struc
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-2.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-2.pdf  used on input line 66.
 (pdftex.def)             Requested size: 223.07054pt x 159.58476pt.
- [41
+ [39
 
 ]
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-0.pdf Graphic file (type pdf)
@@ -1859,34 +1935,34 @@ File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2Struc
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-2.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig-2.pdf  used on input line 66.
 (pdftex.def)             Requested size: 223.07054pt x 159.58476pt.
- [42
+ [40
 
 ]
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/PatternsFig.pdf, id=3160, 617.08502pt x 412.90244pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/PatternsFig.pdf, id=3009, 617.08502pt x 412.90244pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/PatternsFig.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/PatternsFig.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/PatternsFig.pdf  used on input line 82.
 (pdftex.def)             Requested size: 278.83713pt x 186.57932pt.
- [43
+ [41
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/PatternsFig.pdf>]
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/StructureTypes.pdf, id=3213, 443.18062pt x 469.95966pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/StructureTypes.pdf, id=3061, 443.18062pt x 469.95966pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/StructureTypes.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/StructureTypes.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/StructureTypes.pdf  used on input line 90.
 (pdftex.def)             Requested size: 209.12784pt x 221.76309pt.
- [44
+ [42
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/StructureTypes.pdf>]
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/muSR/muSRSummary.pdf, id=3268, 799.85735pt x 462.53452pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/muSR/muSRSummary.pdf, id=3113, 799.85735pt x 462.53452pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/muSR/muSRSummary.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/muSR/muSRSummary.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/muSR/muSRSummary.pdf  used on input line 111.
 (pdftex.def)             Requested size: 278.83713pt x 161.24019pt.
- [45
+ [43
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/muSR/muSRSummary.pdf>]
-<EndingPicture1.pdf, id=3311, 776.8193pt x 475.90723pt>
+<EndingPicture1.pdf, id=3157, 776.8193pt x 475.90723pt>
 File: EndingPicture1.pdf Graphic file (type pdf)
 <use EndingPicture1.pdf>
 Package pdftex.def Info: EndingPicture1.pdf  used on input line 125.
@@ -1905,7 +1981,7 @@ Overfull \hbox (50.4482pt too wide) in paragraph at lines 125--125
 []  
  []
 
-[46
+[44
 
  <./EndingPicture1.pdf>]) (./CeSb2SuperconTalk.tex
 
@@ -1916,15 +1992,15 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 2.
 
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/NormalState.pdf, id=3379, 369.98776pt x 281.19905pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/NormalState.pdf, id=3224, 369.98776pt x 281.19905pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/NormalState.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/NormalState.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/NormalState.pdf  used on input line 21.
 (pdftex.def)             Requested size: 264.89441pt x 201.33469pt.
-[47
+[45
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/NormalState.pdf>]
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/PhaseDia.pdf, id=3442, 447.55882pt x 273.48273pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/PhaseDia.pdf, id=3288, 447.55882pt x 273.48273pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/PhaseDia.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/PhaseDia.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/PhaseDia.pdf  used on input line 55.
@@ -1939,7 +2015,7 @@ Package siunitx Warning: Unit macro \bar has been deprecated in this release.
 (siunitx)                
 (siunitx)                \DeclareSIUnit\bar{bar}
 
-[48
+[46
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/PhaseDia.pdf>]
 
@@ -1982,41 +2058,25 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 58.
 
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/Super31p6Fig.pdf, id=3506, 633.98183pt x 471.67235pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/Super31p6Fig.pdf, id=3352, 633.98183pt x 471.67235pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/Super31p6Fig.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/Super31p6Fig.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/Super31p6Fig.pdf  used on input line 71.
 (pdftex.def)             Requested size: 250.9517pt x 186.70078pt.
-[49
+[47
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/Super31p6Fig.pdf>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 74.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 74.
-
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/CritFields.pdf, id=3569, 446.93149pt x 457.29436pt>
-File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/CritFields.pdf Graphic file (type pdf)
-<use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/CritFields.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/CritFields.pdf  used on input line 96.
-(pdftex.def)             Requested size: 195.18513pt x 199.70992pt.
-[50
-
- </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/CritFields.pdf>]
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Table.pdf, id=3658, 459.01288pt x 209.08212pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Table.pdf, id=3416, 459.01288pt x 209.08212pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Table.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Table.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Table.pdf  used on input line 138.
+Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Table.pdf  used on input line 114.
 (pdftex.def)             Requested size: 184.03352pt x 83.82915pt.
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Aperis.pdf, id=3659, 233.13359pt x 415.52037pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Aperis.pdf, id=3417, 233.13359pt x 415.52037pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Aperis.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Aperis.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Aperis.pdf  used on input line 138.
+Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Aperis.pdf  used on input line 114.
 (pdftex.def)             Requested size: 85.32265pt x 152.07262pt.
- [51
+ [48
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Table.pdf> </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLimiting/Aperis.pdf>]) (./Ending2.tex
 *geometry* verbose mode - [ newgeometry ] result:
@@ -2051,24 +2111,28 @@ Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PauliLim
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<EndingPicture3.pdf, id=3801, 663.01094pt x 438.4103pt>
+<EndingPicture3.pdf, id=3560, 663.01094pt x 438.4103pt>
 File: EndingPicture3.pdf Graphic file (type pdf)
 <use EndingPicture3.pdf>
 Package pdftex.def Info: EndingPicture3.pdf  used on input line 28.
 (pdftex.def)             Requested size: 335.74263pt x 222.00754pt.
-
-Overfull \hbox (9.1774pt too wide) in paragraph at lines 28--28
-[][]  
- []
-
-[52
+ [49
 
 
- <./EndingPicture3.pdf>]) (./NiS2Appendix.tex
+ <./EndingPicture3.pdf>])
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 140.
 
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 140.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 140.
+
+(./NiS2Appendix.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 2.
@@ -2081,15 +2145,15 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 2.
 
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/BackgroundInfo/TakeshitaPhaseDiaAnn.png, id=3951, 579.16376pt x 512.91624pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/BackgroundInfo/TakeshitaPhaseDiaAnn.png, id=3710, 579.16376pt x 512.91624pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/BackgroundInfo/TakeshitaPhaseDiaAnn.png Graphic file (type png)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/BackgroundInfo/TakeshitaPhaseDiaAnn.png>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/BackgroundInfo/TakeshitaPhaseDiaAnn.png  used on input line 15.
 (pdftex.def)             Requested size: 223.07054pt x 197.55554pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [53
+ [50
 
 
  </Users/fmg12/Documents/data/NiS2/FiguresNiS2/BackgroundInfo/TakeshitaPhaseDiaAnn.png>]
@@ -2105,26 +2169,26 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 18.
 
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/Crystals/Growth.pdf, id=4019, 755.42381pt x 413.7097pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/Crystals/Growth.pdf, id=3782, 755.42381pt x 413.7097pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/Crystals/Growth.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/Crystals/Growth.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/Crystals/Growth.pdf  used on input line 39.
 (pdftex.def)             Requested size: 250.9517pt x 137.43364pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [54
+ [51
 
  </Users/fmg12/Documents/data/NiS2/FiguresNiS2/Crystals/Growth.pdf>]
-</Users/fmg12/Documents/data/Figures/Pressure/TDO/TDOSetup.pdf, id=4088, 360.53421pt x 337.96053pt>
+</Users/fmg12/Documents/data/Figures/Pressure/TDO/TDOSetup.pdf, id=3852, 360.53421pt x 337.96053pt>
 File: /Users/fmg12/Documents/data/Figures/Pressure/TDO/TDOSetup.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Pressure/TDO/TDOSetup.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Pressure/TDO/TDOSetup.pdf  used on input line 60.
 (pdftex.def)             Requested size: 237.01326pt x 222.1728pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [55
+ [52
 
  </Users/fmg12/Documents/data/Figures/Pressure/TDO/TDOSetup.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{QONiS2<1>}) has been already used, duplicate ignored
@@ -2137,15 +2201,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{QONiS2}) has b
                    \relax 
 l.85 \end{frame}
                 
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/NiS2SlidingFFT.pdf, id=4176, 658.5933pt x 527.58224pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/NiS2SlidingFFT.pdf, id=3940, 658.5933pt x 527.58224pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/NiS2SlidingFFT.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/NiS2SlidingFFT.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/NiS2SlidingFFT.pdf  used on input line 85.
 (pdftex.def)             Requested size: 250.9517pt x 201.03075pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [56
+ [53
 
  </Users/fmg12/Documents/data/NiS2/FiguresNiS2/NiS2SlidingFFT.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{NiS2Mass<1>}) has been already used, duplicate ignored
@@ -2158,15 +2222,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{NiS2Mass}) has
                    \relax 
 l.96 \end{frame}
                 
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/Paper/QOSummary.pdf, id=4246, 720.68987pt x 561.17712pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/Paper/QOSummary.pdf, id=4012, 720.68987pt x 561.17712pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/Paper/QOSummary.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/Paper/QOSummary.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/Paper/QOSummary.pdf  used on input line 96.
 (pdftex.def)             Requested size: 250.9517pt x 195.40451pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [57
+ [54
 
  </Users/fmg12/Documents/data/NiS2/FiguresNiS2/Paper/QOSummary.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{QONiS2<1>}) has been already used, duplicate ignored
@@ -2179,15 +2243,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{QONiS2}) has b
                    \relax 
 l.121 \end{frame}
                  
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONijmegen/NiS2Nijmegen.pdf, id=4391, 712.19052pt x 461.70251pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONijmegen/NiS2Nijmegen.pdf, id=4157, 712.19052pt x 461.70251pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONijmegen/NiS2Nijmegen.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONijmegen/NiS2Nijmegen.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONijmegen/NiS2Nijmegen.pdf  used on input line 121.
 (pdftex.def)             Requested size: 250.9517pt x 162.68323pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [58
+ [55
 
  </Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONijmegen/NiS2Nijmegen.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{NiS2Mass<1>}) has been already used, duplicate ignored
@@ -2200,15 +2264,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{NiS2Mass}) has
                    \relax 
 l.136 \end{frame}
                  
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONHMFL/RotStudy/RotStudySummary.pdf, id=4478, 769.37836pt x 533.07353pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONHMFL/RotStudy/RotStudySummary.pdf, id=4247, 769.37836pt x 533.07353pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONHMFL/RotStudy/RotStudySummary.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONHMFL/RotStudy/RotStudySummary.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONHMFL/RotStudy/RotStudySummary.pdf  used on input line 136.
 (pdftex.def)             Requested size: 278.83713pt x 193.1915pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [59
+ [56
 
  </Users/fmg12/Documents/data/NiS2/FiguresNiS2/QONHMFL/RotStudy/RotStudySummary.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{QONiS2-2<1>}) has been already used, duplicate ignored
@@ -2221,20 +2285,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{QONiS2-2}) has
                    \relax 
 l.165 \end{frame}
                  
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-0.pdf, id=4538, 745.78625pt x 389.455pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-0.pdf, id=4310, 745.78625pt x 389.455pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-0.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-0.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-0.pdf  used on input line 165.
 (pdftex.def)             Requested size: 250.9517pt x 131.04614pt.
-</Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-1.pdf, id=4539, 745.78625pt x 389.455pt>
+</Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-1.pdf, id=4311, 745.78625pt x 389.455pt>
 File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-1.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-1.pdf  used on input line 165.
 (pdftex.def)             Requested size: 250.9517pt x 131.04614pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [60
+ [57
 
  </Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-0.pdf> </Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-1.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{QONiS2-2<2>}) has been already used, duplicate ignored
@@ -2251,37 +2315,85 @@ File: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_
 Package pdftex.def Info: /Users/fmg12/Documents/data/NiS2/FiguresNiS2/KonstantinFreq_MassPlot/InvM_vs_pFMG0219-1.pdf  used on input line 165.
 (pdftex.def)             Requested size: 250.9517pt x 131.04614pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
+
+ [58
+
+]) (./QuasiGeneralTalk.tex
+</Users/fmg12/Documents/data/In5Bi3/In5Bi3/In5Bi3FigLabels.pdf, id=4567, 808.73242pt x 465.63411pt>
+File: /Users/fmg12/Documents/data/In5Bi3/In5Bi3/In5Bi3FigLabels.pdf Graphic file (type pdf)
+<use /Users/fmg12/Documents/data/In5Bi3/In5Bi3/In5Bi3FigLabels.pdf>
+Package pdftex.def Info: /Users/fmg12/Documents/data/In5Bi3/In5Bi3/In5Bi3FigLabels.pdf  used on input line 24.
+(pdftex.def)             Requested size: 264.89441pt x 152.51582pt.
+
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
+
+ [59
+
+ </Users/fmg12/Documents/data/In5Bi3/In5Bi3/In5Bi3FigLabels.pdf>]
+</Users/fmg12/Documents/data/Sb/FiguresSb/105kbar/Res105Fig2.pdf, id=4649, 737.42683pt x 540.11945pt>
+File: /Users/fmg12/Documents/data/Sb/FiguresSb/105kbar/Res105Fig2.pdf Graphic file (type pdf)
+<use /Users/fmg12/Documents/data/Sb/FiguresSb/105kbar/Res105Fig2.pdf>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Sb/FiguresSb/105kbar/Res105Fig2.pdf  used on input line 54.
+(pdftex.def)             Requested size: 264.89441pt x 194.02252pt.
+
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
+
+ [60
+
+ </Users/fmg12/Documents/data/Sb/FiguresSb/105kbar/Res105Fig2.pdf>]
+Overfull \hbox (113.06068pt too wide) detected at line 94
+ \OT1/cmss/m/n/10 ^^A\OML/cmm/m/it/10 ^^Z \OMS/cmsy/m/n/10 / [][] \OML/cmm/m/it/10 !\T1/phv/m/sl/10 n[]d\OML/cmm/m/it/10 ! \OT1/cmss/m/n/10 = [][] []\T1/phv/m/sl/10 d\OML/cmm/m/it/10 ! \OMS/cmsy/m/n/10 / \T1/phv/m/sl/10 T[]
+ []
+
+</Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFact.pdf, id=4738, 361.35pt x 505.89pt>
+File: /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFact.pdf Graphic file (type pdf)
+<use /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFact.pdf>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFact.pdf  used on input line 94.
+(pdftex.def)             Requested size: 132.4472pt x 185.42409pt.
+
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
  [61
 
-])
+ </Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFact.pdf>]
+</Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFactOverDampedFig.pdf, id=4804, 278.32501pt x 420.83pt>
+File: /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFactOverDampedFig.pdf Graphic file (type pdf)
+<use /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFactOverDampedFig.pdf>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFactOverDampedFig.pdf  used on input line 131.
+(pdftex.def)             Requested size: 132.4472pt x 200.26875pt.
+
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
+
+ [62
+
+ </Users/fmg12/Documents/data/Figures/Lectures/e-phonon/StructFactOverDampedFig.pdf>])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 148.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 148.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 148.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 148.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 148.
+(hyperref)                removing `math shift' on input line 152.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 148.
+(hyperref)                removing `subscript' on input line 152.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 152.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 152.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 152.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 152.
 
 (./YFGMiniTalk.tex
-</Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Collaborators/GroupListYFG.pdf, id=4795, 698.41174pt x 457.1653pt>
+</Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Collaborators/GroupListYFG.pdf, id=4881, 698.41174pt x 457.1653pt>
 File: /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Collaborators/GroupListYFG.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Collaborators/GroupListYFG.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Collaborators/GroupListYFG.pdf  used on input line 11.
@@ -2291,18 +2403,18 @@ Overfull \hbox (55.76657pt too wide) in paragraph at lines 11--11
 [][]  
  []
 
-[62
+[63
 
  </Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Collaborators/GroupListYFG.pdf>]
-</Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/GrowthHorizontalFlux2019/Transition.pdf, id=4833, 722.25743pt x 453.08055pt>
+</Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/GrowthHorizontalFlux2019/Transition.pdf, id=4920, 722.25743pt x 453.08055pt>
 File: /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/GrowthHorizontalFlux2019/Transition.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/GrowthHorizontalFlux2019/Transition.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/GrowthHorizontalFlux2019/Transition.pdf  used on input line 40.
 (pdftex.def)             Requested size: 223.07054pt x 139.935pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [63
+ [64
 
  </Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/GrowthHorizontalFlux2019/Transition.pdf>]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -2337,88 +2449,88 @@ Overfull \vbox (18.47717pt too high) has occurred while \output is active []
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-</Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/QO/QOPlotFSFig.pdf, id=4904, 778.22336pt x 240.39792pt>
+</Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/QO/QOPlotFSFig.pdf, id=4992, 778.22336pt x 240.39792pt>
 File: /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/QO/QOPlotFSFig.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/QO/QOPlotFSFig.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/QO/QOPlotFSFig.pdf  used on input line 81.
 (pdftex.def)             Requested size: 335.74263pt x 103.71022pt.
- [64
+ [65
 
 
  </Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/QO/QOPlotFSFig.pdf>]
-</Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Neutrons/Wo19b.pdf, id=4941, 559.5682pt x 316.16138pt>
+</Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Neutrons/Wo19b.pdf, id=5030, 559.5682pt x 316.16138pt>
 File: /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Neutrons/Wo19b.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Neutrons/Wo19b.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Neutrons/Wo19b.pdf  used on input line 103.
 (pdftex.def)             Requested size: 278.83713pt x 157.5448pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [65
+ [66
 
 
  </Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/Neutrons/Wo19b.pdf>])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 151.
+(hyperref)                removing `math shift' on input line 155.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 151.
+(hyperref)                removing `subscript' on input line 155.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 151.
+(hyperref)                removing `math shift' on input line 155.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 151.
+(hyperref)                removing `math shift' on input line 155.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 151.
+(hyperref)                removing `subscript' on input line 155.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 151.
+(hyperref)                removing `math shift' on input line 155.
 
 (./LFGTalk.tex
-</Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/PhaseDiaAnnotPerSys2.pdf, id=5147, 483.3448pt x 335.1702pt>
+</Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/PhaseDiaAnnotPerSys2.pdf, id=5238, 483.3448pt x 335.1702pt>
 File: /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/PhaseDiaAnnotPerSys2.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/PhaseDiaAnnotPerSys2.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/PhaseDiaAnnotPerSys2.pdf  used on input line 17.
 (pdftex.def)             Requested size: 250.9517pt x 174.02356pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [66
+ [67
 
  </Users/fmg12/Documents/data/yfe2ge2/FiguresYFG/PhaseDiaAnnotPerSys2.pdf>]
-</Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/CrystalGrowth/LiquidTransportLFG2.pdf, id=5264, 792.28627pt x 407.4552pt>
+</Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/CrystalGrowth/LiquidTransportLFG2.pdf, id=5358, 792.28627pt x 407.4552pt>
 File: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/CrystalGrowth/LiquidTransportLFG2.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/CrystalGrowth/LiquidTransportLFG2.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/CrystalGrowth/LiquidTransportLFG2.pdf  used on input line 34.
 (pdftex.def)             Requested size: 278.83713pt x 143.39482pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [67
+ [68
 
  </Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/CrystalGrowth/LiquidTransportLFG2.pdf>]
-</Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-0.pdf, id=5344, 525.87868pt x 413.76457pt>
+</Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-0.pdf, id=5438, 525.87868pt x 413.76457pt>
 File: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-0.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-0.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-0.pdf  used on input line 49.
 (pdftex.def)             Requested size: 250.9517pt x 197.44936pt.
-</Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-1.pdf, id=5345, 519.73856pt x 412.506pt>
+</Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-1.pdf, id=5439, 519.73856pt x 412.506pt>
 File: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-1.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-1.pdf  used on input line 49.
 (pdftex.def)             Requested size: 250.9517pt x 199.17137pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [68
+ [69
 
  </Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-0.pdf> </Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-1.pdf>]
 File: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-0.pdf Graphic file (type pdf)
@@ -2430,44 +2542,44 @@ File: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-1.pdf Grap
 Package pdftex.def Info: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/Transitions-1.pdf  used on input line 49.
 (pdftex.def)             Requested size: 250.9517pt x 199.17137pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [69
+ [70
 
 ]
-</Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/qcp.pdf, id=5529, 694.31656pt x 310.88405pt>
+</Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/qcp.pdf, id=5627, 694.31656pt x 310.88405pt>
 File: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/qcp.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/qcp.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/qcp.pdf  used on input line 66.
 (pdftex.def)             Requested size: 278.83713pt x 124.8495pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [70
+ [71
 
  </Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/SDW/qcp.pdf>]
-</Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/Supercon/Superconductivity1.pdf, id=5586, 749.90962pt x 279.42723pt>
+</Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/Supercon/Superconductivity1.pdf, id=5685, 749.90962pt x 279.42723pt>
 File: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/Supercon/Superconductivity1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/Supercon/Superconductivity1.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/Supercon/Superconductivity1.pdf  used on input line 96.
 (pdftex.def)             Requested size: 278.83713pt x 103.8981pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [71
+ [72
 
  </Users/fmg12/Documents/data/LuFe2Ge2/FiguresLFG/Supercon/Superconductivity1.pdf>])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 156.
+(hyperref)                removing `math shift' on input line 160.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 156.
+(hyperref)                removing `subscript' on input line 160.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 156.
+(hyperref)                removing `math shift' on input line 160.
 
 (./CeSb2Appendix.tex
 
@@ -2493,15 +2605,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{CeSb2Intro}) h
                    \relax 
 l.21     \end{frame}
                     
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/LitData/Kagayama1.pdf, id=5644, 804.31381pt x 380.20955pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/LitData/Kagayama1.pdf, id=5746, 804.31381pt x 380.20955pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/LitData/Kagayama1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/LitData/Kagayama1.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/LitData/Kagayama1.pdf  used on input line 21.
 (pdftex.def)             Requested size: 278.83713pt x 131.8106pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [72
+ [73
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/LitData/Kagayama1.pdf>]
 
@@ -2512,15 +2624,15 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 23.
 
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2012/DLS2012xrdFig.pdf, id=5737, 796.77025pt x 319.22604pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2012/DLS2012xrdFig.pdf, id=5842, 796.77025pt x 319.22604pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2012/DLS2012xrdFig.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2012/DLS2012xrdFig.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2012/DLS2012xrdFig.pdf  used on input line 38.
 (pdftex.def)             Requested size: 278.83713pt x 111.71617pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [73
+ [74
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2012/DLS2012xrdFig.pdf>]
 
@@ -2542,25 +2654,25 @@ pdfTeX warning (ext4): destination with the same identifier (name{CeSb2Res}) has
                    \relax 
 l.56 \end{frame}
                 
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-0.pdf, id=5814, 794.97pt x 614.295pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-0.pdf, id=5919, 794.97pt x 614.295pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-0.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-0.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-0.pdf  used on input line 56.
 (pdftex.def)             Requested size: 278.83713pt x 215.46576pt.
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-1.pdf, id=5815, 794.97pt x 614.295pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-1.pdf, id=5920, 794.97pt x 614.295pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-1.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-1.pdf  used on input line 56.
 (pdftex.def)             Requested size: 278.83713pt x 215.46576pt.
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-2.pdf, id=5816, 794.97pt x 614.295pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-2.pdf, id=5921, 794.97pt x 614.295pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-2.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-2.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-2.pdf  used on input line 56.
 (pdftex.def)             Requested size: 278.83713pt x 215.46576pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [74
+ [75
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-0.pdf, page is rotated 90 degrees> </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-1.pdf, page is rotated 90 degrees> </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-2.pdf, page is rotated 90 degrees>]
 pdfTeX warning (ext4): destination with the same identifier (name{CeSb2Res<2>}) has been already used, duplicate ignored
@@ -2581,9 +2693,9 @@ File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-2.pdf Grap
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-2.pdf  used on input line 56.
 (pdftex.def)             Requested size: 278.83713pt x 215.46576pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [75
+ [76
 
 ]
 pdfTeX warning (ext4): destination with the same identifier (name{CeSb2Res<3>}) has been already used, duplicate ignored
@@ -2604,30 +2716,30 @@ File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-2.pdf Grap
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/p30b/CeSb2RTmagn-2.pdf  used on input line 56.
 (pdftex.def)             Requested size: 278.83713pt x 215.46576pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [76
+ [77
 
 ]
-</Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2.png, id=5964, 1077.7866pt x 1962.3714pt>
+</Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2.png, id=6074, 1077.7866pt x 1962.3714pt>
 File: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2.png Graphic file (type png)
 <use /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2.png>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2.png  used on input line 112.
 (pdftex.def)             Requested size: 83.65198pt x 152.29181pt.
-</Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12a.png, id=5965, 626.34pt x 920.43875pt>
+</Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12a.png, id=6075, 626.34pt x 920.43875pt>
 File: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12a.png Graphic file (type png)
 <use /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12a.png>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12a.png  used on input line 112.
 (pdftex.def)             Requested size: 97.5947pt x 143.4109pt.
-</Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12b.png, id=5966, 825.0825pt x 924.45375pt>
+</Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12b.png, id=6076, 825.0825pt x 924.45375pt>
 File: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12b.png Graphic file (type png)
 <use /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12b.png>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12b.png  used on input line 112.
 (pdftex.def)             Requested size: 97.5947pt x 109.33568pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [77
+ [78
 
  </Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2.png> </Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12a.png> </Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12b.png>]
 File: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2.png Graphic file (type png)
@@ -2643,9 +2755,9 @@ File: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12b.png Graphi
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12b.png  used on input line 112.
 (pdftex.def)             Requested size: 97.5947pt x 109.33568pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [78
+ [79
 
 ]
 File: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2.png Graphic file (type png)
@@ -2661,9 +2773,9 @@ File: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12b.png Graphi
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/CeSb2/CeSb2_p12b.png  used on input line 112.
 (pdftex.def)             Requested size: 97.5947pt x 109.33568pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [79
+ [80
 
 ]
 pdfTeX warning (ext4): destination with the same identifier (name{CeSb2xray-2<1>}) has been already used, duplicate ignored
@@ -2676,15 +2788,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{CeSb2xray-2}) 
                    \relax 
 l.127 \end{frame}
                  
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/XRDRefinements.pdf, id=6087, 683.92703pt x 435.67014pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/XRDRefinements.pdf, id=6200, 683.92703pt x 435.67014pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/XRDRefinements.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/XRDRefinements.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/XRDRefinements.pdf  used on input line 127.
 (pdftex.def)             Requested size: 278.83713pt x 177.62209pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [80
+ [81
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/XRDRefinements.pdf>]
 
@@ -2695,26 +2807,26 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 130.
 
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/P-Dependence.pdf, id=6140, 417.29341pt x 357.98976pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/P-Dependence.pdf, id=6253, 417.29341pt x 357.98976pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/P-Dependence.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/P-Dependence.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/P-Dependence.pdf  used on input line 137.
 (pdftex.def)             Requested size: 250.9517pt x 215.29259pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [81
+ [82
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/DLS2022/P-Dependence.pdf>]
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PhaseCoexistOverview.pdf, id=8431, 686.1103pt x 437.0755pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PhaseCoexistOverview.pdf, id=8546, 686.1103pt x 437.0755pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PhaseCoexistOverview.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PhaseCoexistOverview.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PhaseCoexistOverview.pdf  used on input line 151.
 (pdftex.def)             Requested size: 278.83713pt x 177.62817pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [82
+ [83
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/PhaseCoexistOverview.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{SuperconTable<1>}) has been already used, duplicate ignored
@@ -2727,15 +2839,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{SuperconTable}
                    \relax 
 l.157 \end{frame}
                  
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/SCTable.jpg, id=8587, 776.9025pt x 287.0725pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/SCTable.jpg, id=8704, 776.9025pt x 287.0725pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/SCTable.jpg Graphic file (type jpg)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/SCTable.jpg>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/SCTable.jpg  used on input line 157.
 (pdftex.def)             Requested size: 250.9517pt x 92.728pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [83
+ [84
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/SCTable.jpg>]
 
@@ -2746,15 +2858,15 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 161.
 
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig.pdf, id=8625, 643.16856pt x 469.26097pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig.pdf, id=8743, 643.16856pt x 469.26097pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig.pdf  used on input line 174.
 (pdftex.def)             Requested size: 223.07054pt x 162.75444pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [84
+ [85
 
  </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighTHighPResist/CeSb2StructTransFig.pdf>]
 
@@ -2776,17 +2888,36 @@ pdfTeX warning (ext4): destination with the same identifier (name{CeSb2HighestP}
                    \relax 
 l.204 \end{frame}
                  
-</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighPBoth.png, id=8696, 456.5055pt x 270.0489pt>
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighPBoth.png, id=8817, 456.5055pt x 270.0489pt>
 File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighPBoth.png Graphic file (type png)
 <use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighPBoth.png>
 Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighPBoth.png  used on input line 204.
 (pdftex.def)             Requested size: 267.6855pt x 158.35089pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [85
+ [86
 
- </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighPBoth.png>]) (./CISTalk.tex
+ </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/HighPBoth.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 207.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 207.
+
+</Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/CritFields.pdf, id=8857, 446.93149pt x 457.29436pt>
+File: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/CritFields.pdf Graphic file (type pdf)
+<use /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/CritFields.pdf>
+Package pdftex.def Info: /Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/CritFields.pdf  used on input line 229.
+(pdftex.def)             Requested size: 195.18513pt x 199.70992pt.
+
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
+
+ [87
+
+ </Users/fmg12/Documents/data/CeSb2/FiguresCeSb2/2022Paper/CritFields.pdf>]) (./CISTalk.tex
 pdfTeX warning (ext4): destination with the same identifier (name{Conc<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -2806,7 +2937,7 @@ Overfull \hbox (55.76657pt too wide) in paragraph at lines 35--35
 [][]  
  []
 
-[86
+[88
 
 ]
 
@@ -2845,15 +2976,15 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 39.
 
-</Users/fmg12/Documents/data/Figures/R3T4X13/Sr3Ir4Sn13_amb-Struct3.pdf, id=8740, 743.08481pt x 521.94608pt>
+</Users/fmg12/Documents/data/Figures/R3T4X13/Sr3Ir4Sn13_amb-Struct3.pdf, id=8959, 743.08481pt x 521.94608pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/Sr3Ir4Sn13_amb-Struct3.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/Sr3Ir4Sn13_amb-Struct3.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/Sr3Ir4Sn13_amb-Struct3.pdf  used on input line 58.
 (pdftex.def)             Requested size: 223.07054pt x 156.68059pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [87
+ [89
 
  </Users/fmg12/Documents/data/Figures/R3T4X13/Sr3Ir4Sn13_amb-Struct3.pdf>]
 
@@ -2872,20 +3003,20 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 64.
 
-</Users/fmg12/Documents/data/Figures/R3T4X13/Superlattice_QCP_resub_Figure2-annot.png, id=8814, 681.9879pt x 612.1269pt>
+</Users/fmg12/Documents/data/Figures/R3T4X13/Superlattice_QCP_resub_Figure2-annot.png, id=9034, 681.9879pt x 612.1269pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/Superlattice_QCP_resub_Figure2-annot.png Graphic file (type png)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/Superlattice_QCP_resub_Figure2-annot.png>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/Superlattice_QCP_resub_Figure2-annot.png  used on input line 95.
 (pdftex.def)             Requested size: 149.11163pt x 133.84274pt.
-</Users/fmg12/Documents/data/Figures/R3T4X13/CISRTnoInsetLabel.pdf, id=8815, 551.31894pt x 521.69472pt>
+</Users/fmg12/Documents/data/Figures/R3T4X13/CISRTnoInsetLabel.pdf, id=9035, 551.31894pt x 521.69472pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/CISRTnoInsetLabel.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/CISRTnoInsetLabel.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/CISRTnoInsetLabel.pdf  used on input line 95.
 (pdftex.def)             Requested size: 144.38268pt x 136.6296pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [88
+ [90
 
  </Users/fmg12/Documents/data/Figures/R3T4X13/Superlattice_QCP_resub_Figure2-annot.png> </Users/fmg12/Documents/data/Figures/R3T4X13/CISRTnoInsetLabel.pdf>]
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/Superlattice_QCP_resub_Figure2-annot.png Graphic file (type png)
@@ -2897,9 +3028,9 @@ File: /Users/fmg12/Documents/data/Figures/R3T4X13/CISRTnoInsetLabel.pdf Graphic 
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/CISRTnoInsetLabel.pdf  used on input line 95.
 (pdftex.def)             Requested size: 144.38268pt x 136.6296pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [89
+ [91
 
 ]
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/Superlattice_QCP_resub_Figure2-annot.png Graphic file (type png)
@@ -2911,20 +3042,20 @@ File: /Users/fmg12/Documents/data/Figures/R3T4X13/CISRTnoInsetLabel.pdf Graphic 
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/CISRTnoInsetLabel.pdf  used on input line 95.
 (pdftex.def)             Requested size: 144.38268pt x 136.6296pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [90
+ [92
 
 ]
-</Users/fmg12/Documents/data/Figures/R3T4X13/Phonons.pdf, id=8971, 619.12083pt x 375.66257pt>
+</Users/fmg12/Documents/data/Figures/R3T4X13/Phonons.pdf, id=9196, 619.12083pt x 375.66257pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/Phonons.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/Phonons.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/Phonons.pdf  used on input line 122.
 (pdftex.def)             Requested size: 223.07054pt x 135.35306pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [91
+ [93
 
  </Users/fmg12/Documents/data/Figures/R3T4X13/Phonons.pdf>]) (./CISAppendix.tex
 pdfTeX warning (ext4): destination with the same identifier (name{CIS-1<1>}) has been already used, duplicate ignored
@@ -2937,25 +3068,25 @@ pdfTeX warning (ext4): destination with the same identifier (name{CIS-1}) has be
                    \relax 
 l.29 \end{frame}
                 
-</Users/fmg12/Documents/data/Figures/R3T4X13/Figure1_SQCP.pdf, id=9086, 674.27972pt x 794.97pt>
+</Users/fmg12/Documents/data/Figures/R3T4X13/Figure1_SQCP.pdf, id=9312, 674.27972pt x 794.97pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/Figure1_SQCP.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/Figure1_SQCP.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/Figure1_SQCP.pdf  used on input line 29.
 (pdftex.def)             Requested size: 156.1487pt x 184.1008pt.
-</Users/fmg12/Documents/data/Figures/R3T4X13/Figure2a_SQCP.pdf, id=9087, 474.58255pt x 459.26022pt>
+</Users/fmg12/Documents/data/Figures/R3T4X13/Figure2a_SQCP.pdf, id=9313, 474.58255pt x 459.26022pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/Figure2a_SQCP.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/Figure2a_SQCP.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/Figure2a_SQCP.pdf  used on input line 29.
 (pdftex.def)             Requested size: 83.65198pt x 80.94637pt.
-</Users/fmg12/Documents/data/Figures/R3T4X13/Figure2b_SQCP.pdf, id=9088, 468.13673pt x 459.7175pt>
+</Users/fmg12/Documents/data/Figures/R3T4X13/Figure2b_SQCP.pdf, id=9314, 468.13673pt x 459.7175pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/Figure2b_SQCP.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/Figure2b_SQCP.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/Figure2b_SQCP.pdf  used on input line 29.
 (pdftex.def)             Requested size: 83.65198pt x 82.1423pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [92
+ [94
 
  </Users/fmg12/Documents/data/Figures/R3T4X13/Figure1_SQCP.pdf> </Users/fmg12/Documents/data/Figures/R3T4X13/Figure2a_SQCP.pdf> </Users/fmg12/Documents/data/Figures/R3T4X13/Figure2b_SQCP.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{CIS-phonons<1>}) has been already used, duplicate ignored
@@ -2968,62 +3099,62 @@ pdfTeX warning (ext4): destination with the same identifier (name{CIS-phonons}) 
                    \relax 
 l.46 \end{frame}
                 
-</Users/fmg12/Documents/data/Figures/R3T4X13/CalcPhonons.pdf, id=9157, 456.63359pt x 259.27504pt>
+</Users/fmg12/Documents/data/Figures/R3T4X13/CalcPhonons.pdf, id=9384, 456.63359pt x 259.27504pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/CalcPhonons.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/CalcPhonons.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/CalcPhonons.pdf  used on input line 46.
 (pdftex.def)             Requested size: 278.83713pt x 158.3237pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [93
+ [95
 
  </Users/fmg12/Documents/data/Figures/R3T4X13/CalcPhonons.pdf>]
-</Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-1.pdf, id=9268, 238.61171pt x 204.43216pt>
+</Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-1.pdf, id=9496, 238.61171pt x 204.43216pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-1.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-1.pdf  used on input line 67.
 (pdftex.def)             Requested size: 162.7344pt x 139.41856pt.
-</Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-2.pdf, id=9269, 185.08519pt x 291.49313pt>
+</Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-2.pdf, id=9497, 185.08519pt x 291.49313pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-2.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-2.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-2.pdf  used on input line 67.
 (pdftex.def)             Requested size: 93.83583pt x 147.78333pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [94
+ [96
 
  </Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-1.pdf> </Users/fmg12/Documents/data/Figures/R3T4X13/R3Rh4Sn13-2.pdf>]
-</Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png, id=9605, 1136.245pt x 1202.4925pt>
+</Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png, id=9835, 1136.245pt x 1202.4925pt>
 File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png Graphic file (type png)
 <use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png  used on input line 92.
 (pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-</Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png, id=9606, 1136.245pt x 1202.4925pt>
+</Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png, id=9836, 1136.245pt x 1202.4925pt>
 File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png Graphic file (type png)
 <use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png  used on input line 92.
 (pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-</Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png, id=9607, 1136.245pt x 1202.4925pt>
+</Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png, id=9837, 1136.245pt x 1202.4925pt>
 File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png Graphic file (type png)
 <use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png  used on input line 92.
 (pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-</Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png, id=9608, 1136.245pt x 1202.4925pt>
+</Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png, id=9838, 1136.245pt x 1202.4925pt>
 File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png Graphic file (type png)
 <use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png  used on input line 92.
 (pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-</Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png, id=9609, 1136.245pt x 1202.4925pt>
+</Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png, id=9839, 1136.245pt x 1202.4925pt>
 File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png Graphic file (type png)
 <use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png  used on input line 92.
 (pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [95
+ [97
 
  </Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png> </Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png> </Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png> </Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png> </Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png>]
 File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png Graphic file (type png)
@@ -3047,59 +3178,7 @@ File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png Gr
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png  used on input line 92.
 (pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
-
- [96
-
-]
-File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png  used on input line 92.
-(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png  used on input line 92.
-(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png  used on input line 92.
-(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png  used on input line 92.
-(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png  used on input line 92.
-(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
-
- [97
-
-]
-File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png  used on input line 92.
-(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png  used on input line 92.
-(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png  used on input line 92.
-(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png  used on input line 92.
-(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png  used on input line 92.
-(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
-
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
  [98
 
@@ -3125,20 +3204,72 @@ File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png Gr
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png  used on input line 92.
 (pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
  [99
 
 ]
-</Users/fmg12/Documents/data/Figures/R3T4X13/Figure5_SQCP.pdf, id=9806, 533.96878pt x 549.83862pt>
+File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png  used on input line 92.
+(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
+File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png  used on input line 92.
+(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
+File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png  used on input line 92.
+(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
+File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png  used on input line 92.
+(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
+File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png  used on input line 92.
+(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
+
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
+
+ [100
+
+]
+File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-0.png  used on input line 92.
+(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
+File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-1.png  used on input line 92.
+(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
+File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-2.png  used on input line 92.
+(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
+File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-3.png  used on input line 92.
+(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
+File: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png Graphic file (type png)
+<use /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png>
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Structures/R3T4X13/Ca3Ir4Sn13-4.png  used on input line 92.
+(pdftex.def)             Requested size: 181.24242pt x 191.79723pt.
+
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
+
+ [101
+
+]
+</Users/fmg12/Documents/data/Figures/R3T4X13/Figure5_SQCP.pdf, id=10042, 533.96878pt x 549.83862pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/Figure5_SQCP.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/Figure5_SQCP.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/Figure5_SQCP.pdf  used on input line 117.
 (pdftex.def)             Requested size: 167.30397pt x 172.27719pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [100
+ [102
 
  </Users/fmg12/Documents/data/Figures/R3T4X13/Figure5_SQCP.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{CIS-1<1>}) has been already used, duplicate ignored
@@ -3151,31 +3282,31 @@ pdfTeX warning (ext4): destination with the same identifier (name{CIS-1}) has be
                    \relax 
 l.125 \end{frame}
                  
-</Users/fmg12/Documents/data/Figures/R3T4X13/PriorPapers.pdf, id=9925, 845.1575pt x 597.23125pt>
+</Users/fmg12/Documents/data/Figures/R3T4X13/PriorPapers.pdf, id=10163, 845.1575pt x 597.23125pt>
 File: /Users/fmg12/Documents/data/Figures/R3T4X13/PriorPapers.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/R3T4X13/PriorPapers.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/R3T4X13/PriorPapers.pdf  used on input line 125.
 (pdftex.def)             Requested size: 354.12433pt x 250.24306pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [101
+ [103
 
  </Users/fmg12/Documents/data/Figures/R3T4X13/PriorPapers.pdf>]
-</Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-0.pdf, id=10190, 1591.9475pt x 1110.1475pt>
+</Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-0.pdf, id=10431, 1591.9475pt x 1110.1475pt>
 File: /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-0.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-0.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-0.pdf  used on input line 158.
 (pdftex.def)             Requested size: 195.18513pt x 136.1086pt.
-</Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-1.pdf, id=10191, 1591.9475pt x 1110.1475pt>
+</Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-1.pdf, id=10432, 1591.9475pt x 1110.1475pt>
 File: /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-1.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-1.pdf  used on input line 158.
 (pdftex.def)             Requested size: 195.18513pt x 136.1086pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [102
+ [104
 
  </Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-0.pdf> </Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-1.pdf>]
 File: /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-0.pdf Graphic file (type pdf)
@@ -3187,9 +3318,9 @@ File: /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-1.pdf Graphic file (
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-1.pdf  used on input line 158.
 (pdftex.def)             Requested size: 195.18513pt x 136.1086pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [103
+ [105
 
 ]
 File: /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-0.pdf Graphic file (type pdf)
@@ -3201,20 +3332,20 @@ File: /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-1.pdf Graphic file (
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/ccs/CCSGPhaseDia1-1.pdf  used on input line 158.
 (pdftex.def)             Requested size: 195.18513pt x 136.1086pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [104
+ [106
 
 ]) (./BiAppendix.tex
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Literature1.pdf, id=10332, 774.895pt x 416.55624pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Literature1.pdf, id=10574, 774.895pt x 416.55624pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Literature1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Literature1.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Literature1.pdf  used on input line 25.
 (pdftex.def)             Requested size: 278.83713pt x 149.89021pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [105
+ [107
 
  </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/Literature1.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{BiIntro<1>}) has been already used, duplicate ignored
@@ -3227,7 +3358,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{BiIntro}) has 
                    \relax 
 l.50 \end{frame}
                 
-</Users/fmg12/Documents/data/Figures/Bi/IncommStructLabelled.pdf, id=10480, 421.02843pt x 173.2069pt>
+</Users/fmg12/Documents/data/Figures/Bi/IncommStructLabelled.pdf, id=10725, 421.02843pt x 173.2069pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/IncommStructLabelled.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/IncommStructLabelled.pdf>
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/IncommStructLabelled.pdf  used on input line 50.
@@ -3237,9 +3368,9 @@ File: /Users/fmg12/Documents/data/Figures/Bi/PhasonModecrop.pdf Graphic file (ty
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/PhasonModecrop.pdf  used on input line 50.
 (pdftex.def)             Requested size: 278.83713pt x 63.6133pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
- [106
+ [108
 
  </Users/fmg12/Documents/data/Figures/Bi/IncommStructLabelled.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{BiIntro<2>}) has been already used, duplicate ignored
@@ -3256,136 +3387,18 @@ File: /Users/fmg12/Documents/data/Figures/Bi/PhasonModecrop.pdf Graphic file (ty
 Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/PhasonModecrop.pdf  used on input line 50.
 (pdftex.def)             Requested size: 278.83713pt x 63.6133pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
-
- [107
-
-]
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-0.png, id=10679, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-0.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-0.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-0.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-0.png> <a0,fr0>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-1.png, id=10683, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-1.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-1.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-1.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-1.png> <a0,fr1>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-2.png, id=10687, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-2.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-2.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-2.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-2.png> <a0,fr2>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-3.png, id=10691, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-3.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-3.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-3.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-3.png> <a0,fr3>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-4.png, id=10695, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-4.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-4.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-4.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-4.png> <a0,fr4>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-5.png, id=10699, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-5.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-5.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-5.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-5.png> <a0,fr5>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-6.png, id=10703, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-6.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-6.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-6.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-6.png> <a0,fr6>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-7.png, id=10707, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-7.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-7.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-7.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-7.png> <a0,fr7>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-8.png, id=10711, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-8.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-8.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-8.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-8.png> <a0,fr8>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-9.png, id=10715, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-9.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-9.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-9.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-9.png> <a0,fr9>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-10.png, id=10719, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-10.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-10.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-10.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-10.png> <a0,fr10>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-11.png, id=10723, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-11.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-11.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-11.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-11.png> <a0,fr11>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-12.png, id=10727, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-12.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-12.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-12.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-12.png> <a0,fr12>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-13.png, id=10731, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-13.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-13.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-13.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-13.png> <a0,fr13>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-14.png, id=10735, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-14.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-14.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-14.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-14.png> <a0,fr14>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-15.png, id=10739, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-15.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-15.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-15.png  used on input line 61.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode1-15.png> <a0,fr15>
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
-
- [108
-
-]
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-0.png, id=10801, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-0.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-0.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-0.png  used on input line 71.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-0.png> <a1,fr0>
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-1.png, id=10805, 648.4225pt x 652.4375pt>
-File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-1.png Graphic file (type png)
-<use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-1.png>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-1.png  used on input line 71.
-(pdftex.def)             Requested size: 648.42091pt x 652.4359pt.
- </Users/fmg12/Documents/data/Figures/Bi/Bi3/Phonons/animations/Bi3Mode2-1.png> <a1,fr1>
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
  [109
 
 ]
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiCritFieldFigure.pdf, id=10853, 713.23666pt x 443.68529pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/BiCritFieldFigure.pdf, id=10928, 713.23666pt x 443.68529pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiCritFieldFigure.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiCritFieldFigure.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiCritFieldFigure.pdf  used on input line 98.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/BiCritFieldFigure.pdf  used on input line 79.
 (pdftex.def)             Requested size: 223.07054pt x 138.75963pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
  [110
 
@@ -3393,77 +3406,77 @@ Overfull \vbox (18.47717pt too high) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{SbRes<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.129 \end{frame}
+l.110 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{SbRes}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.129 \end{frame}
+l.110 \end{frame}
                  
-</Users/fmg12/Documents/data/Sb/Puthipong0522/ResAllFig.pdf, id=10946, 752.38518pt x 542.63666pt>
+</Users/fmg12/Documents/data/Sb/Puthipong0522/ResAllFig.pdf, id=11022, 752.38518pt x 542.63666pt>
 File: /Users/fmg12/Documents/data/Sb/Puthipong0522/ResAllFig.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Sb/Puthipong0522/ResAllFig.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Sb/Puthipong0522/ResAllFig.pdf  used on input line 129.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Sb/Puthipong0522/ResAllFig.pdf  used on input line 110.
 (pdftex.def)             Requested size: 264.89441pt x 191.04346pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
  [111
 
  </Users/fmg12/Documents/data/Sb/Puthipong0522/ResAllFig.pdf>]
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf, id=11040, 711.65875pt x 497.86pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf, id=11116, 711.65875pt x 497.86pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf  used on input line 154.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf  used on input line 135.
 (pdftex.def)             Requested size: 223.07054pt x 156.05186pt.
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf, id=11041, 711.65875pt x 522.95375pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf, id=11117, 711.65875pt x 522.95375pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf  used on input line 154.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf  used on input line 135.
 (pdftex.def)             Requested size: 223.07054pt x 163.91737pt.
-</Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf, id=11042, 711.65875pt x 512.91624pt>
+</Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf, id=11118, 711.65875pt x 512.91624pt>
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf  used on input line 154.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf  used on input line 135.
 (pdftex.def)             Requested size: 223.07054pt x 160.77116pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
  [112
 
  </Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf> </Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf> </Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf>]
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf  used on input line 154.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf  used on input line 135.
 (pdftex.def)             Requested size: 223.07054pt x 156.05186pt.
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf  used on input line 154.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf  used on input line 135.
 (pdftex.def)             Requested size: 223.07054pt x 163.91737pt.
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf  used on input line 154.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf  used on input line 135.
 (pdftex.def)             Requested size: 223.07054pt x 160.77116pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
  [113
 
 ]
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf  used on input line 154.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-0.pdf  used on input line 135.
 (pdftex.def)             Requested size: 223.07054pt x 156.05186pt.
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf  used on input line 154.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-1.pdf  used on input line 135.
 (pdftex.def)             Requested size: 223.07054pt x 163.91737pt.
 File: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf Graphic file (type pdf)
 <use /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf>
-Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf  used on input line 154.
+Package pdftex.def Info: /Users/fmg12/Documents/data/Figures/Bi/Bi3/Test-2.pdf  used on input line 135.
 (pdftex.def)             Requested size: 223.07054pt x 160.77116pt.
 
-Overfull \vbox (18.47717pt too high) has occurred while \output is active []
+Overfull \vbox (25.3392pt too high) has occurred while \output is active []
 
  [114
 
@@ -3485,22 +3498,127 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `GroTalk.ta.out' has not changed.
-(rerunfilecheck)             Checksum: 8252B64E9F32A8B7307D745C680F0BBC;8075.
+
+Package rerunfilecheck Warning: File `GroTalk.ta.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `GroTalk.ta.out':
+(rerunfilecheck)             Before: DA7F3B1AB5EF3B3367B74529C8392744;8075
+(rerunfilecheck)             After:  475D4AB9CF1341AAAA510754C7791602;8336.
  ) ) 
 Here is how much of TeX's memory you used:
- 35074 strings out of 476025
- 788124 string characters out of 5790017
- 1871388 words of memory out of 5000000
- 54262 multiletter control sequences out of 15000+600000
+ 35108 strings out of 476025
+ 788612 string characters out of 5790017
+ 1872388 words of memory out of 5000000
+ 54261 multiletter control sequences out of 15000+600000
  602089 words of font info for 121 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,18n,122p,430b,1069s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,18n,122p,433b,1069s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Outline1.12.1.107} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.11.3.103} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.11.2.102} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.11.1.97} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.10.2.90} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.10.1.89} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.9.7.87} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.9.6.86} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.9.5.85} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.9.4.82} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.9.3.75} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.9.2.74} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.9.1.73} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.8.4.72} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.8.3.71} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.8.2.69} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.8.1.68} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.7.3.66} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.7.2.65} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.7.1.64} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.6.5.60} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.6.4.59} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.6.3.57} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.6.2.55} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1.6.1.54} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.7.52} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.6.51} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.5.50} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.4.49} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.3.45} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.2.42} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.1.41} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.3.5.37} has been referenced but does not exist, replaced by a fixed one
+
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on GroTalk.ta.pdf (114 pages, 56736585 bytes).
+Output written on GroTalk.ta.pdf (114 pages, 56739397 bytes).
 PDF statistics:
- 11443 PDF objects out of 12825 (max. 8388607)
- 8588 compressed objects within 86 object streams
- 408 named destinations out of 1000 (max. 500000)
+ 11531 PDF objects out of 12825 (max. 8388607)
+ 8675 compressed objects within 87 object streams
+ 443 named destinations out of 1000 (max. 500000)
  1247 words of extra memory for PDF output out of 10000 (max. 10000000)
 
